@@ -1,0 +1,893 @@
+2025-03-20 11:59:42,425 - INFO - Bot started
+2025-03-20 11:59:57,160 - INFO - User 6251161332 sent message: \U0001f6d2 Store
+2025-03-20 11:59:58,919 - INFO - Sent logo image to user 6251161332
+2025-03-20 12:00:00,791 - INFO - User 6251161332 triggered callback: our_shop
+2025-03-20 12:00:01,755 - INFO - Sent logo image to user 6251161332
+2025-03-20 12:00:04,307 - INFO - User 6251161332 triggered callback: subscribe
+2025-03-20 12:00:06,049 - INFO - Sent logo image to user 6251161332
+2025-03-20 12:00:08,832 - INFO - User 6251161332 triggered callback: plan_8m
+2025-03-20 12:00:09,744 - INFO - Sent logo image to user 6251161332
+2025-03-20 12:00:09,744 - INFO - User 6251161332 selected plan $95 for 8 Months for $95
+2025-03-20 12:00:12,545 - INFO - User 6251161332 triggered callback: pay_website_6251161332
+2025-03-20 12:00:13,433 - INFO - Sent logo image to user 6251161332
+2025-03-20 12:00:13,433 - INFO - User 6251161332 initiated Website payment for $95 for 8 Months at 2025-03-20 12:00:13.433499 with Transaction ID: 07c0a7a0-7202-4dd4-9c34-67cb58918bfc
+2025-03-20 12:00:13,875 - INFO - Admin 6251161332 notified of Website payment request from user 6251161332 with Transaction ID: 07c0a7a0-7202-4dd4-9c34-67cb58918bfc
+2025-03-20 12:00:27,700 - INFO - User 6251161332 sent message: \U0001f6d2 Store
+2025-03-20 12:00:28,567 - INFO - Sent logo image to user 6251161332
+2025-03-20 12:00:30,138 - INFO - User 6251161332 triggered callback: our_shop
+2025-03-20 12:00:30,994 - INFO - Sent logo image to user 6251161332
+2025-03-20 12:00:33,272 - INFO - User 6251161332 triggered callback: subscribe
+2025-03-20 12:00:34,191 - INFO - Sent logo image to user 6251161332
+2025-03-20 12:00:37,460 - INFO - User 6251161332 triggered callback: plan_12m
+2025-03-20 12:00:38,281 - INFO - Sent logo image to user 6251161332
+2025-03-20 12:00:38,282 - INFO - User 6251161332 selected plan $145 for 12 Months for $145
+2025-03-20 12:00:40,978 - INFO - User 6251161332 triggered callback: pay_crypto_BTC_6251161332
+2025-03-20 12:00:41,808 - INFO - Sent logo image to user 6251161332
+2025-03-20 12:14:29,574 - INFO - Bot started
+2025-03-20 12:14:32,824 - INFO - User 6251161332 sent message: \U0001f6d2 Store
+2025-03-20 12:14:34,528 - INFO - Sent logo image to user 6251161332
+2025-03-20 12:14:36,056 - INFO - User 6251161332 triggered callback: our_shop
+2025-03-20 12:14:37,775 - INFO - Sent logo image to user 6251161332
+2025-03-20 12:14:39,919 - INFO - User 6251161332 triggered callback: subscribe
+2025-03-20 12:14:40,744 - INFO - Sent logo image to user 6251161332
+2025-03-20 12:14:43,635 - INFO - User 6251161332 triggered callback: plan_3m
+2025-03-20 12:14:44,494 - INFO - Sent logo image to user 6251161332
+2025-03-20 12:14:44,494 - INFO - User 6251161332 selected plan $45 for 3 Months for $45
+2025-03-20 12:14:47,604 - INFO - User 6251161332 triggered callback: pay_crypto_BNB_6251161332
+2025-03-20 12:14:48,520 - INFO - Sent logo image to user 6251161332
+2025-03-20 12:16:31,186 - INFO - User 6251161332 triggered callback: pay_crypto_BTC_6251161332
+2025-03-20 12:16:32,012 - INFO - Sent logo image to user 6251161332
+2025-03-20 12:16:40,844 - INFO - User 6251161332 triggered callback: pay_website_6251161332
+2025-03-20 12:16:41,811 - INFO - Sent logo image to user 6251161332
+2025-03-20 12:16:41,811 - INFO - User 6251161332 initiated Website payment for $45 for 3 Months at 2025-03-20 12:16:41.811070 with Transaction ID: e3f26282-d24a-4043-a4d1-dc8f543037bd
+2025-03-20 23:31:24,219 - INFO - Bot started
+2025-03-20 23:32:07,608 - INFO - User 6251161332 started the bot
+2025-03-20 23:32:07,608 - INFO - Admin 6251161332 sees Admin button
+2025-03-20 23:32:10,660 - INFO - User 6251161332 sent message: \U0001f6d2 Store
+2025-03-20 23:32:12,570 - INFO - Sent logo image to user 6251161332
+2025-03-20 23:32:22,810 - INFO - User 6251161332 triggered callback: our_shop
+2025-03-20 23:32:23,763 - INFO - Sent logo image to user 6251161332
+2025-03-20 23:32:34,494 - INFO - User 6251161332 triggered callback: subscribe
+2025-03-20 23:32:35,869 - INFO - Sent logo image to user 6251161332
+2025-03-20 23:32:40,777 - INFO - User 6251161332 triggered callback: back_to_shop
+2025-03-20 23:32:43,520 - INFO - User 6251161332 triggered callback: regular_price
+2025-03-20 23:32:44,507 - INFO - Sent logo image to user 6251161332
+2025-03-20 23:32:48,515 - INFO - User 6251161332 triggered callback: price_250
+2025-03-20 23:32:49,522 - INFO - Sent logo image to user 6251161332
+2025-03-20 23:32:49,544 - INFO - User 6251161332 selected regular price 250 Sites $25 for $25. Subscriptions: {'6251161332': {'plan': '250 Sites $25', 'payment': 'Payment: $25 via Website', 'status': 'pending'}}
+2025-03-20 23:32:52,581 - INFO - User 6251161332 triggered callback: pay_website_6251161332
+2025-03-20 23:32:52,581 - INFO - Payment attempt for user_id: 6251161332. Current subscriptions: {'6251161332': {'plan': '250 Sites $25', 'payment': 'Payment: $25 via Website', 'status': 'pending'}}
+2025-03-20 23:32:52,581 - INFO - User 6251161332 initiated Website payment for 250 Sites $25 at 2025-03-20 23:32:52.581099 with Transaction ID: 784cd44e-33d7-4748-b042-a9920e3e2d64
+2025-03-20 23:32:53,077 - INFO - Admin 6251161332 notified of Website payment request from user 6251161332 with Transaction ID: 784cd44e-33d7-4748-b042-a9920e3e2d64
+2025-03-20 23:33:24,774 - INFO - User 6251161332 sent message: \U0001f6e0\ufe0f Admin
+2025-03-20 23:33:24,774 - INFO - Admin 6251161332 accessed Admin panel
+2025-03-20 23:33:24,997 - ERROR - Failed to edit admin panel message for 6251161332, message_id: 1131: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message can't be edited
+2025-03-20 23:33:25,466 - INFO - Deleted old admin panel message for 6251161332, message_id: 1131
+2025-03-20 23:33:25,940 - INFO - Sent new admin panel message for 6251161332, new message_id: 1132
+2025-03-20 23:33:31,823 - INFO - User 6251161332 triggered callback: change_payment_6251161332
+2025-03-20 23:33:32,898 - INFO - Sent logo image to user 6251161332
+2025-03-20 23:33:37,992 - INFO - User 6251161332 triggered callback: set_payment_website_6251161332
+2025-03-20 23:33:39,510 - INFO - Sent logo image to user 6251161332
+2025-03-20 23:33:46,646 - INFO - User 6251161332 sent message: \U0001f4de Customer Support
+2025-03-20 23:33:47,608 - INFO - Sent logo image to user 6251161332
+2025-03-20 23:33:54,939 - INFO - User 6251161332 triggered callback: contact_us
+2025-03-20 23:33:55,910 - INFO - Sent logo image to user 6251161332
+2025-03-20 23:34:09,972 - INFO - User 6251161332 sent message: \U0001f4b3 Payment & Checklist
+2025-03-20 23:34:10,933 - INFO - Sent logo image to user 6251161332
+2025-03-20 23:34:12,947 - INFO - User 6251161332 sent message: \U0001f4cb How To Order Step by Step
+2025-03-20 23:34:14,017 - INFO - Sent logo image to user 6251161332
+2025-03-20 23:53:52,936 - INFO - Bot started
+2025-03-20 23:53:57,490 - INFO - User 6251161332 sent message: \U0001f6d2 Store
+2025-03-20 23:54:00,642 - INFO - Sent logo image to user 6251161332
+2025-03-21 00:04:54,983 - INFO - User 6251161332 sent message: \U0001f6d2 Store
+2025-03-21 00:04:58,630 - INFO - Sent logo image to user 6251161332
+2025-03-21 00:05:10,316 - INFO - User 6251161332 triggered callback: our_shop
+2025-03-21 00:05:11,751 - INFO - Sent logo image to user 6251161332
+2025-03-21 00:05:14,477 - INFO - User 6251161332 triggered callback: subscribe
+2025-03-21 00:05:16,518 - INFO - Sent logo image to user 6251161332
+2025-03-21 00:05:19,664 - INFO - User 6251161332 triggered callback: plan_3m
+2025-03-21 00:05:20,645 - INFO - Sent logo image to user 6251161332
+2025-03-21 00:05:20,666 - INFO - User 6251161332 selected subscription plan $45 for 3 Months for $45. Subscriptions: {'6251161332': {'plan': '$45 for 3 Months', 'payment': 'Payment: $45 via Website', 'status': 'pending'}}
+2025-03-21 00:05:23,779 - INFO - User 6251161332 triggered callback: pay_website_6251161332
+2025-03-21 00:05:23,779 - INFO - Payment attempt for user_id: 6251161332. Current subscriptions: {'6251161332': {'plan': '$45 for 3 Months', 'payment': 'Payment: $45 via Website', 'status': 'pending'}}
+2025-03-21 00:05:23,827 - INFO - User 6251161332 initiated Website payment for $45 for 3 Months at 2025-03-21 00:05:23.801401 with Transaction ID: 4b208f2a-54c7-4623-8468-4b8dee303788
+2025-03-21 00:05:24,297 - INFO - Admin 6251161332 notified of Website payment request from user 6251161332 with Transaction ID: 4b208f2a-54c7-4623-8468-4b8dee303788
+2025-03-21 00:26:56,587 - INFO - Bot started
+2025-03-21 00:28:36,102 - INFO - User 6251161332 sent message: \U0001f6d2 Store
+2025-03-21 00:28:38,246 - INFO - Sent logo image to user 6251161332
+2025-03-21 00:28:40,366 - INFO - User 6251161332 triggered callback: our_shop
+2025-03-21 00:28:42,476 - INFO - Sent logo image to user 6251161332
+2025-03-21 00:29:44,743 - INFO - User 6251161332 triggered callback: regular_price
+2025-03-21 00:29:45,565 - INFO - Sent logo image to user 6251161332
+2025-03-21 00:30:33,388 - INFO - User 6251161332 triggered callback: price_250
+2025-03-21 00:30:34,205 - INFO - Sent logo image to user 6251161332
+2025-03-21 00:30:34,206 - INFO - User 6251161332 selected regular price 250 Sites $25 for $25. Subscriptions: {'6251161332': {'plan': '250 Sites $25', 'payment': 'Payment: $25 via Website', 'status': 'pending'}}
+2025-03-21 00:31:02,567 - INFO - User 6251161332 triggered callback: pay_website_6251161332
+2025-03-21 00:31:02,567 - INFO - Payment attempt for user_id: 6251161332. Current subscriptions: {'6251161332': {'plan': '250 Sites $25', 'payment': 'Payment: $25 via Website', 'status': 'pending'}}
+2025-03-21 00:31:02,568 - INFO - User 6251161332 initiated Website payment for 250 Sites $25 at 2025-03-21 00:31:02.567803 with Transaction ID: 6656cfe6-2017-45c0-9af5-1d6344510090
+2025-03-21 00:31:02,975 - INFO - Admin 6251161332 notified of Website payment request from user 6251161332 with Transaction ID: 6656cfe6-2017-45c0-9af5-1d6344510090
+2025-03-21 01:09:44,164 - INFO - User 7944149645 started the bot
+2025-03-21 01:09:44,177 - INFO - Regular user 7944149645 does not see Admin button
+2025-03-21 01:25:31,291 - INFO - Bot started
+2025-03-21 01:30:14,774 - INFO - Bot started
+2025-03-21 01:30:32,446 - INFO - User 6251161332 sent message: \U0001f4dc Return & Refund Policy
+2025-03-21 01:30:34,517 - INFO - Sent logo image to user 6251161332
+2025-03-21 01:30:40,544 - INFO - User 6251161332 triggered callback: refund_policy
+2025-03-21 01:30:42,414 - INFO - Sent logo image to user 6251161332
+2025-03-21 01:46:48,904 - INFO - User 6251161332 sent message: \U0001f4dc Return & Refund Policy
+2025-03-21 01:46:50,871 - INFO - Sent logo image to user 6251161332
+2025-03-21 01:46:55,648 - INFO - User 6251161332 triggered callback: refund_policy
+2025-03-21 01:46:56,474 - INFO - Sent logo image to user 6251161332
+2025-03-21 03:47:03,771 - INFO - User 7944149645 sent message: \U0001f6d2 Store
+2025-03-21 03:47:05,918 - INFO - Sent logo image to user 7944149645
+2025-03-21 03:47:15,031 - INFO - User 7944149645 triggered callback: our_shop
+2025-03-21 03:47:15,835 - INFO - Sent logo image to user 7944149645
+2025-03-21 03:47:25,692 - INFO - User 7944149645 triggered callback: regular_price
+2025-03-21 03:47:26,506 - INFO - Sent logo image to user 7944149645
+2025-03-21 03:47:43,864 - INFO - User 7944149645 triggered callback: price_2500
+2025-03-21 03:47:45,764 - INFO - Sent logo image to user 7944149645
+2025-03-21 03:47:45,867 - INFO - User 7944149645 selected regular price 2500 Sites $229 for $229. Subscriptions: {'6251161332': {'plan': '250 Sites $25', 'payment': 'Payment: Payment: $25 via Website', 'status': 'pending', 'timestamp': '2025-03-21 00:31:02.567803', 'transaction_id': '6656cfe6-2017-45c0-9af5-1d6344510090'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: $229 via Website', 'status': 'pending'}}
+2025-03-21 03:48:04,987 - INFO - User 7944149645 triggered callback: pay_website_7944149645
+2025-03-21 03:48:04,987 - INFO - Payment attempt for user_id: 7944149645. Current subscriptions: {'6251161332': {'plan': '250 Sites $25', 'payment': 'Payment: Payment: $25 via Website', 'status': 'pending', 'timestamp': '2025-03-21 00:31:02.567803', 'transaction_id': '6656cfe6-2017-45c0-9af5-1d6344510090'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: $229 via Website', 'status': 'pending'}}
+2025-03-21 03:48:04,989 - INFO - User 7944149645 initiated Website payment for 2500 Sites $229 at 2025-03-21 03:48:04.987977 with Transaction ID: 6ed77aa7-6afb-47aa-8358-b9e9b3f45df9
+2025-03-21 03:48:05,390 - INFO - Admin 6251161332 notified of Website payment request from user 7944149645 with Transaction ID: 6ed77aa7-6afb-47aa-8358-b9e9b3f45df9
+2025-03-21 03:48:32,125 - INFO - User 7944149645 sent message: \U0001f4dc Return & Refund Policy
+2025-03-21 03:48:32,950 - INFO - Sent logo image to user 7944149645
+2025-03-21 03:50:00,247 - INFO - User 7944149645 triggered callback: back_inline
+2025-03-21 03:50:00,656 - INFO - User 7944149645 started the bot
+2025-03-21 03:50:00,656 - INFO - Regular user 7944149645 does not see Admin button
+2025-03-21 03:50:02,456 - INFO - User 7944149645 sent message: \U0001f4de Customer Support
+2025-03-21 03:50:03,259 - INFO - Sent logo image to user 7944149645
+2025-03-21 03:50:08,072 - INFO - User 7944149645 triggered callback: live_chat
+2025-03-21 03:50:08,887 - INFO - Sent logo image to user 7944149645
+2025-03-21 03:50:26,170 - INFO - User 7944149645 sent message: \U0001f4de Customer Support
+2025-03-21 03:50:26,974 - INFO - Sent logo image to user 7944149645
+2025-03-21 03:50:29,548 - INFO - User 7944149645 triggered callback: contact_us
+2025-03-21 03:50:30,352 - INFO - Sent logo image to user 7944149645
+2025-03-21 03:50:51,498 - INFO - User 7944149645 sent message: \U0001f4de Customer Support
+2025-03-21 03:50:52,307 - INFO - Sent logo image to user 7944149645
+2025-03-21 03:51:06,872 - INFO - User 7944149645 sent message: \U0001f4dc Return & Refund Policy
+2025-03-21 03:51:07,701 - INFO - Sent logo image to user 7944149645
+2025-03-21 03:57:14,581 - INFO - User 6251161332 sent message: \U0001f4dc Return & Refund Policy
+2025-03-21 03:57:15,403 - INFO - Sent logo image to user 6251161332
+2025-03-21 03:57:18,152 - INFO - User 6251161332 triggered callback: refund_policy
+2025-03-21 03:57:19,028 - INFO - Sent logo image to user 6251161332
+2025-03-21 03:57:35,078 - INFO - User 7944149645 sent message: \U0001f4b3 Payment & Checklist
+2025-03-21 03:57:35,889 - INFO - Sent logo image to user 7944149645
+2025-03-21 03:57:41,245 - INFO - User 7944149645 triggered callback: payment_issues
+2025-03-21 03:57:43,350 - INFO - Sent logo image to user 7944149645
+2025-03-21 03:58:05,249 - INFO - User 7944149645 sent message: \U0001f6d2 Store
+2025-03-21 03:58:06,062 - INFO - Sent logo image to user 7944149645
+2025-03-21 03:58:08,764 - INFO - User 7944149645 triggered callback: our_shop
+2025-03-21 03:58:09,573 - INFO - Sent logo image to user 7944149645
+2025-03-21 03:58:47,589 - INFO - User 7944149645 triggered callback: regular_price
+2025-03-21 03:58:49,523 - INFO - Sent logo image to user 7944149645
+2025-03-21 03:59:20,223 - INFO - User 7944149645 sent message: \U0001f519 Back to Start
+2025-03-21 03:59:20,224 - INFO - User 7944149645 started the bot
+2025-03-21 03:59:20,225 - INFO - Regular user 7944149645 does not see Admin button
+2025-03-21 04:04:48,415 - INFO - User 6251161332 sent message: \U0001f4dc Return & Refund Policy
+2025-03-21 04:04:50,051 - INFO - Sent logo image to user 6251161332
+2025-03-21 04:04:59,132 - INFO - User 6251161332 sent message: \U0001f6e0\ufe0f Admin
+2025-03-21 04:04:59,133 - INFO - Admin 6251161332 accessed Admin panel
+2025-03-21 04:04:59,765 - ERROR - Failed to edit admin panel message for 6251161332, message_id: 1303: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message can't be edited
+2025-03-21 04:05:00,168 - INFO - Deleted old admin panel message for 6251161332, message_id: 1303
+2025-03-21 04:05:00,588 - INFO - Sent new admin panel message for 6251161332, new message_id: 1304
+2025-03-21 04:05:17,433 - INFO - User 6251161332 sent message: \U0001f4dc Return & Refund Policy
+2025-03-21 04:05:18,256 - INFO - Sent logo image to user 6251161332
+2025-03-21 04:21:51,116 - INFO - User 7244537339 started the bot
+2025-03-21 04:21:51,142 - INFO - Regular user 7244537339 does not see Admin button
+2025-03-21 04:22:47,156 - INFO - User 7244537339 sent message: \U0001f4dc Return & Refund Policy
+2025-03-21 04:22:48,656 - INFO - Sent logo image to user 7244537339
+2025-03-21 04:23:52,289 - INFO - User 7244537339 triggered callback: refund_policy
+2025-03-21 04:23:54,425 - INFO - Sent logo image to user 7244537339
+2025-03-21 04:24:23,080 - INFO - User 7244537339 sent message: \U0001f519 Back to Start
+2025-03-21 04:24:23,080 - INFO - User 7244537339 started the bot
+2025-03-21 04:24:23,499 - INFO - Regular user 7244537339 does not see Admin button
+2025-03-21 04:24:27,771 - INFO - User 7244537339 sent message: \U0001f6d2 Store
+2025-03-21 04:24:28,572 - INFO - Sent logo image to user 7244537339
+2025-03-21 04:24:31,325 - INFO - User 7244537339 triggered callback: our_shop
+2025-03-21 04:24:32,154 - INFO - Sent logo image to user 7244537339
+2025-03-21 04:24:49,566 - INFO - User 7244537339 sent message: \U0001f519 Back to Start
+2025-03-21 04:24:49,566 - INFO - User 7244537339 started the bot
+2025-03-21 04:24:49,566 - INFO - Regular user 7244537339 does not see Admin button
+2025-03-21 04:24:52,056 - INFO - User 7244537339 sent message: \U0001f6d2 Store
+2025-03-21 04:24:52,861 - INFO - Sent logo image to user 7244537339
+2025-03-21 04:24:54,837 - INFO - User 7244537339 triggered callback: our_shop
+2025-03-21 04:24:55,643 - INFO - Sent logo image to user 7244537339
+2025-03-21 04:25:59,344 - INFO - User 7244537339 triggered callback: regular_price
+2025-03-21 04:26:00,155 - INFO - Sent logo image to user 7244537339
+2025-03-21 04:27:25,303 - INFO - User 7244537339 started the bot
+2025-03-21 04:27:25,303 - INFO - Regular user 7244537339 does not see Admin button
+2025-03-21 04:27:28,067 - INFO - User 7244537339 sent message: \U0001f6d2 Store
+2025-03-21 04:27:28,878 - INFO - Sent logo image to user 7244537339
+2025-03-21 04:27:33,000 - INFO - User 7244537339 triggered callback: our_shop
+2025-03-21 04:27:33,808 - INFO - Sent logo image to user 7244537339
+2025-03-21 06:02:19,636 - INFO - User 7244537339 sent message: \U0001f519 Back to Start
+2025-03-21 06:02:19,664 - INFO - User 7244537339 started the bot
+2025-03-21 06:02:19,664 - INFO - Regular user 7244537339 does not see Admin button
+2025-03-21 06:02:23,350 - INFO - User 7244537339 sent message: \U0001f6d2 Store
+2025-03-21 06:02:25,293 - INFO - Sent logo image to user 7244537339
+2025-03-21 06:02:27,478 - INFO - User 7244537339 triggered callback: our_shop
+2025-03-21 06:02:28,942 - INFO - Sent logo image to user 7244537339
+2025-03-21 06:02:33,456 - INFO - User 7244537339 triggered callback: regular_price
+2025-03-21 06:02:34,285 - INFO - Sent logo image to user 7244537339
+2025-03-21 07:11:14,659 - ERROR - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 502. Description: Bad Gateway
+2025-03-21 07:11:14,888 - ERROR - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\WIN-10\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\telebot\__init__.py", line 1234, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "C:\Users\WIN-10\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\telebot\util.py", line 111, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\WIN-10\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\telebot\util.py", line 93, in run
+    task(*args, **kwargs)
+  File "C:\Users\WIN-10\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\telebot\__init__.py", line 688, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1),
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WIN-10\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\telebot\__init__.py", line 660, in get_updates
+    json_updates = apihelper.get_updates(
+                   ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WIN-10\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\telebot\apihelper.py", line 332, in get_updates
+    return _make_request(token, method_url, params=payload)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WIN-10\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\telebot\apihelper.py", line 168, in _make_request
+    json_result = _check_result(method_name, result)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WIN-10\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\telebot\apihelper.py", line 195, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 502. Description: Bad Gateway
+
+2025-03-21 07:11:42,087 - ERROR - Bot crashed: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)
+2025-03-21 07:11:47,088 - INFO - Bot started
+2025-03-21 07:43:13,823 - ERROR - Bot crashed: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)
+2025-03-21 07:43:18,824 - INFO - Bot started
+2025-03-21 07:43:39,891 - ERROR - Bot crashed: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7515637679:AAHCV9aghfd_Vzbh7zW4p71WWeHgQRstj60/getUpdates?offset=766716165&timeout=20 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000284447C6990>, 'Connection to api.telegram.org timed out. (connect timeout=20)'))
+2025-03-21 07:43:44,892 - INFO - Bot started
+2025-03-21 09:46:53,821 - INFO - Bot started
+2025-03-21 09:46:55,187 - INFO - User 7244537339 sent message: \U0001f6d2 Store
+2025-03-21 09:46:55,187 - INFO - User 7244537339 sent message: \U0001f519 Back to Start
+2025-03-21 09:46:55,187 - INFO - User 7244537339 started the bot
+2025-03-21 09:46:55,187 - INFO - Regular user 7244537339 does not see Admin button
+2025-03-21 09:46:56,409 - INFO - User 7244537339 sent message: \U0001f519 Back to Start
+2025-03-21 09:46:56,424 - INFO - User 7244537339 started the bot
+2025-03-21 09:46:56,424 - INFO - Regular user 7244537339 does not see Admin button
+2025-03-21 09:46:57,216 - INFO - User 7244537339 started the bot
+2025-03-21 09:46:57,216 - INFO - Regular user 7244537339 does not see Admin button
+2025-03-21 09:46:57,821 - INFO - Sent logo image to user 7244537339
+2025-03-21 09:48:54,562 - INFO - User 6251161332 sent message: \U0001f6d2 Store
+2025-03-21 09:48:55,440 - INFO - Sent logo image to user 6251161332
+2025-03-21 09:49:04,504 - INFO - User 7244537339 triggered callback: our_shop
+2025-03-21 09:49:05,302 - INFO - Sent logo image to user 7244537339
+2025-03-21 10:07:26,826 - INFO - User 7244537339 sent message: \U0001f519 Back to Start
+2025-03-21 10:07:26,826 - INFO - User 7244537339 started the bot
+2025-03-21 10:07:26,826 - INFO - Regular user 7244537339 does not see Admin button
+2025-03-21 10:07:30,526 - INFO - User 7244537339 sent message: \U0001f4dc Return & Refund Policy
+2025-03-21 10:07:31,984 - INFO - Sent logo image to user 7244537339
+2025-03-21 10:07:38,649 - INFO - User 7244537339 sent message: \U0001f4b3 Payment & Checklist
+2025-03-21 10:07:40,530 - INFO - Sent logo image to user 7244537339
+2025-03-21 10:07:44,043 - INFO - User 7244537339 triggered callback: payment_methods
+2025-03-21 10:07:44,859 - INFO - Sent logo image to user 7244537339
+2025-03-21 10:08:04,476 - INFO - User 7244537339 sent message: \U0001f6d2 Store
+2025-03-21 10:08:05,306 - INFO - Sent logo image to user 7244537339
+2025-03-21 10:08:07,172 - INFO - User 7244537339 triggered callback: our_shop
+2025-03-21 10:08:07,987 - INFO - Sent logo image to user 7244537339
+2025-03-21 10:11:26,706 - INFO - User 7244537339 sent message: \U0001f4cb How To Order Step by Step
+2025-03-21 10:11:27,537 - INFO - Sent logo image to user 7244537339
+2025-03-21 10:11:30,515 - INFO - User 7244537339 triggered callback: order_guide
+2025-03-21 10:11:31,394 - INFO - Sent logo image to user 7244537339
+2025-03-21 10:12:00,245 - INFO - User 7244537339 sent message: \U0001f4cb How To Order Step by Step
+2025-03-21 10:12:01,061 - INFO - Sent logo image to user 7244537339
+2025-03-21 10:16:17,610 - INFO - User 7244537339 triggered callback: order_guide
+2025-03-21 10:16:18,410 - INFO - Sent logo image to user 7244537339
+2025-03-21 11:20:30,931 - INFO - Bot started
+2025-03-21 11:22:00,420 - INFO - User 6251161332 sent message: \U0001f6d2 Store
+2025-03-21 11:22:02,678 - INFO - Sent logo image to user 6251161332
+2025-03-21 11:22:06,570 - INFO - User 6251161332 sent message: \U0001f4dc Return & Refund Policy
+2025-03-21 11:22:07,866 - INFO - Sent logo image to user 6251161332
+2025-03-21 11:22:08,269 - INFO - User 6251161332 viewed Refund Policy
+2025-03-21 11:50:10,013 - INFO - Bot started
+2025-03-21 11:50:20,921 - INFO - User 6251161332 sent message: \U0001f6d2 Store
+2025-03-21 11:50:22,872 - INFO - Sent logo image to user 6251161332
+2025-03-21 11:50:24,761 - INFO - User 6251161332 triggered callback: our_shop
+2025-03-21 11:50:25,605 - INFO - Sent logo image to user 6251161332
+2025-03-21 11:50:28,759 - INFO - User 6251161332 triggered callback: subscribe
+2025-03-21 11:50:36,775 - INFO - User 6251161332 triggered callback: plan_6m
+2025-03-21 11:50:36,777 - INFO - User 6251161332 selected subscription plan $72 for 6 Months for $72. Subscriptions: {'6251161332': {'plan': '$72 for 6 Months', 'payment': 'Payment: $72 via Website', 'status': 'pending'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'pending', 'timestamp': '2025-03-21 03:48:04.987977', 'transaction_id': '6ed77aa7-6afb-47aa-8358-b9e9b3f45df9'}}
+2025-03-21 11:50:40,430 - INFO - User 6251161332 triggered callback: pay_website_6251161332
+2025-03-21 11:50:40,430 - INFO - Payment attempt for user_id: 6251161332. Current subscriptions: {'6251161332': {'plan': '$72 for 6 Months', 'payment': 'Payment: $72 via Website', 'status': 'pending'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'pending', 'timestamp': '2025-03-21 03:48:04.987977', 'transaction_id': '6ed77aa7-6afb-47aa-8358-b9e9b3f45df9'}}
+2025-03-21 11:50:40,432 - INFO - User 6251161332 initiated Website payment for $72 for 6 Months at 2025-03-21 11:50:40.430790 with Transaction ID: 28ab3de6-2a24-4d14-a10c-40746e4bd94a
+2025-03-21 11:50:40,834 - INFO - Admin 6251161332 notified of Website payment request from user 6251161332 with Transaction ID: 28ab3de6-2a24-4d14-a10c-40746e4bd94a
+2025-03-21 11:50:53,724 - INFO - User 6251161332 sent message: \U0001f519 Back to Start
+2025-03-21 11:50:53,724 - INFO - User 6251161332 started the bot
+2025-03-21 11:50:53,724 - INFO - Admin 6251161332 sees Admin button
+2025-03-21 11:50:57,067 - INFO - User 6251161332 sent message: \U0001f4de Customer Support
+2025-03-21 11:51:03,732 - INFO - User 6251161332 sent message: \U0001f4cb How To Order Step by Step
+2025-03-21 11:51:10,182 - INFO - User 6251161332 sent message: \U0001f4dc Return & Refund Policy
+2025-03-21 11:51:10,588 - INFO - User 6251161332 viewed Refund Policy
+2025-03-21 11:51:13,036 - INFO - User 6251161332 sent message: \U0001f4b3 Payment & Checklist
+2025-03-21 11:51:15,850 - INFO - User 6251161332 triggered callback: payment_methods
+2025-03-21 11:51:26,717 - INFO - User 6251161332 sent message: \U0001f4b3 Payment & Checklist
+2025-03-21 11:51:29,933 - INFO - User 6251161332 triggered callback: payment_history
+2025-03-21 11:51:48,844 - INFO - User 6251161332 sent message: \U0001f4cb How To Order Step by Step
+2025-03-21 11:51:51,859 - INFO - User 6251161332 triggered callback: order_help
+2025-03-21 11:51:52,255 - ERROR - Bot crashed: 'Message' object has no attribute '_setattr_'
+2025-03-21 11:51:57,074 - INFO - User 6251161332 triggered callback: order_help
+2025-03-21 11:51:57,256 - INFO - Bot started
+2025-03-21 11:51:57,455 - ERROR - Bot crashed: 'Message' object has no attribute '_setattr_'
+2025-03-21 11:52:00,470 - INFO - User 6251161332 triggered callback: back_inline
+2025-03-21 11:52:00,865 - INFO - User 6251161332 started the bot
+2025-03-21 11:52:00,866 - INFO - Admin 6251161332 sees Admin button
+2025-03-21 11:52:02,456 - INFO - Bot started
+2025-03-21 11:52:08,099 - INFO - User 6251161332 sent message: \U0001f4dc Return & Refund Policy
+2025-03-21 11:52:08,537 - INFO - User 6251161332 viewed Refund Policy
+2025-03-21 11:52:09,898 - INFO - User 6251161332 sent message: \U0001f4b3 Payment & Checklist
+2025-03-21 11:52:14,798 - INFO - User 6251161332 triggered callback: payment_issues
+2025-03-21 11:52:31,594 - INFO - User 6251161332 sent message: \U0001f4de Customer Support
+2025-03-21 11:52:34,282 - INFO - User 6251161332 triggered callback: contact_us
+2025-03-21 11:52:55,265 - INFO - User 6251161332 sent message: \U0001f4de Customer Support
+2025-03-21 11:52:57,320 - INFO - User 6251161332 triggered callback: live_chat
+2025-03-21 18:35:53,497 - INFO - Bot started
+2025-03-21 22:46:11,037 - INFO - Bot started
+2025-03-21 22:46:35,172 - INFO - User 6251161332 sent message: \U0001f6d2 Store
+2025-03-21 22:46:38,569 - INFO - Sent logo image to user 6251161332
+2025-03-21 22:46:40,751 - INFO - User 6251161332 triggered callback: our_shop
+2025-03-21 22:46:41,897 - INFO - Sent logo image to user 6251161332
+2025-03-21 22:46:44,268 - INFO - User 6251161332 triggered callback: subscribe
+2025-03-21 22:46:50,040 - INFO - User 6251161332 triggered callback: back_to_shop
+2025-03-21 22:46:52,552 - INFO - User 6251161332 triggered callback: regular_price
+2025-03-21 22:46:56,807 - INFO - User 6251161332 triggered callback: price_850
+2025-03-21 22:46:56,808 - INFO - User 6251161332 selected regular price 850 Sites $79 for $79. Subscriptions: {'6251161332': {'plan': '850 Sites $79', 'payment': 'Payment: $79 via Website', 'status': 'pending'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'pending', 'timestamp': '2025-03-21 03:48:04.987977', 'transaction_id': '6ed77aa7-6afb-47aa-8358-b9e9b3f45df9'}}
+2025-03-21 22:47:01,214 - INFO - User 6251161332 triggered callback: pay_website_6251161332
+2025-03-21 22:47:01,214 - INFO - Payment attempt for user_id: 6251161332. Current subscriptions: {'6251161332': {'plan': '850 Sites $79', 'payment': 'Payment: $79 via Website', 'status': 'pending'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'pending', 'timestamp': '2025-03-21 03:48:04.987977', 'transaction_id': '6ed77aa7-6afb-47aa-8358-b9e9b3f45df9'}}
+2025-03-21 22:47:01,215 - INFO - User 6251161332 initiated Website payment for 850 Sites $79 at 2025-03-21 22:47:01.214431 with Transaction ID: c67c730e-f632-40a8-a822-94387eb14eb5
+2025-03-21 22:47:01,639 - INFO - Admin 6251161332 notified of Website payment request from user 6251161332 with Transaction ID: c67c730e-f632-40a8-a822-94387eb14eb5
+2025-03-21 22:47:14,964 - INFO - User 6251161332 sent message: \U0001f4dc Return & Refund Policy
+2025-03-21 22:47:15,395 - INFO - User 6251161332 viewed Refund Policy
+2025-03-21 22:47:17,495 - INFO - User 6251161332 triggered callback: back_inline
+2025-03-21 22:47:17,900 - INFO - User 6251161332 started the bot
+2025-03-21 22:47:17,900 - INFO - Admin 6251161332 sees Admin button
+2025-03-21 22:47:20,059 - INFO - User 6251161332 sent message: \U0001f4de Customer Support
+2025-03-21 22:47:24,722 - INFO - User 6251161332 triggered callback: contact_us
+2025-03-21 22:47:31,434 - INFO - User 6251161332 triggered callback: back_inline
+2025-03-21 22:47:31,915 - INFO - User 6251161332 started the bot
+2025-03-21 22:47:31,965 - INFO - Admin 6251161332 sees Admin button
+2025-03-21 22:47:35,305 - INFO - User 6251161332 sent message: \U0001f4cb How To Order Step by Step
+2025-03-21 22:47:37,939 - INFO - User 6251161332 triggered callback: order_guide
+2025-03-21 22:47:44,348 - INFO - User 6251161332 triggered callback: back_inline
+2025-03-21 22:47:44,744 - INFO - User 6251161332 started the bot
+2025-03-21 22:47:44,744 - INFO - Admin 6251161332 sees Admin button
+2025-03-21 22:47:47,656 - INFO - User 6251161332 sent message: \U0001f4b3 Payment & Checklist
+2025-03-21 23:37:45,472 - INFO - Bot started
+2025-03-22 00:48:48,354 - INFO - User 6251161332 sent message: \U0001f6d2 Store
+2025-03-22 00:48:51,111 - INFO - Sent logo image to user 6251161332
+2025-03-22 00:48:52,772 - INFO - User 6251161332 triggered callback: our_shop
+2025-03-22 00:48:53,245 - INFO - User 7944149645 started the bot
+2025-03-22 00:48:53,245 - INFO - Regular user 7944149645 does not see Admin button
+2025-03-22 00:48:55,408 - INFO - Sent logo image to user 6251161332
+2025-03-22 00:48:57,949 - INFO - User 6251161332 triggered callback: subscribe
+2025-03-22 00:49:06,678 - INFO - User 6251161332 triggered callback: plan_3m
+2025-03-22 00:49:06,710 - INFO - User 6251161332 selected subscription plan $45 for 3 Months for $45. Subscriptions: {'6251161332': {'plan': '$45 for 3 Months', 'payment': 'Payment: $45 via Website', 'status': 'pending'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'pending', 'timestamp': '2025-03-21 03:48:04.987977', 'transaction_id': '6ed77aa7-6afb-47aa-8358-b9e9b3f45df9'}}
+2025-03-22 00:49:09,584 - INFO - User 6251161332 triggered callback: pay_website_6251161332
+2025-03-22 00:49:09,585 - INFO - Payment attempt for user_id: 6251161332. Current subscriptions: {'6251161332': {'plan': '$45 for 3 Months', 'payment': 'Payment: $45 via Website', 'status': 'pending'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'pending', 'timestamp': '2025-03-21 03:48:04.987977', 'transaction_id': '6ed77aa7-6afb-47aa-8358-b9e9b3f45df9'}}
+2025-03-22 00:49:09,587 - INFO - User 6251161332 initiated Website payment for $45 for 3 Months at 2025-03-22 00:49:09.585016 with Transaction ID: ec67f49d-0267-43ff-b150-cac89e3c9fd6
+2025-03-22 00:49:09,988 - INFO - Admin 6251161332 notified of Website payment request from user 6251161332 with Transaction ID: ec67f49d-0267-43ff-b150-cac89e3c9fd6
+2025-03-22 00:50:21,883 - INFO - User 7244537339 started the bot
+2025-03-22 00:50:21,883 - INFO - Regular user 7244537339 does not see Admin button
+2025-03-22 00:50:39,313 - INFO - User 7244537339 sent message: \U0001f6d2 Store
+2025-03-22 00:50:40,738 - INFO - Sent logo image to user 7244537339
+2025-03-22 00:50:41,493 - INFO - User 7944149645 sent message: \U0001f6d2 Store
+2025-03-22 00:50:42,910 - INFO - Sent logo image to user 7944149645
+2025-03-22 00:50:45,074 - INFO - User 7244537339 triggered callback: our_shop
+2025-03-22 00:50:46,501 - INFO - Sent logo image to user 7244537339
+2025-03-22 00:50:59,493 - INFO - User 7944149645 triggered callback: our_shop
+2025-03-22 00:51:00,306 - INFO - Sent logo image to user 7944149645
+2025-03-22 00:51:17,718 - INFO - User 7944149645 sent message: \U0001f6d2 Store
+2025-03-22 00:51:19,140 - INFO - Sent logo image to user 7944149645
+2025-03-22 00:51:26,118 - INFO - User 7944149645 triggered callback: our_shop
+2025-03-22 00:51:27,564 - INFO - Sent logo image to user 7944149645
+2025-03-22 00:52:14,898 - INFO - User 7244537339 triggered callback: back_inline
+2025-03-22 00:52:15,291 - INFO - User 7244537339 started the bot
+2025-03-22 00:52:15,291 - INFO - Regular user 7244537339 does not see Admin button
+2025-03-22 00:58:42,766 - INFO - User 6251161332 started the bot
+2025-03-22 00:58:42,767 - INFO - Admin 6251161332 sees Admin button
+2025-03-22 00:58:46,161 - INFO - User 6251161332 sent message: \U0001f6d2 Store
+2025-03-22 00:58:47,011 - INFO - Sent logo image to user 6251161332
+2025-03-22 00:58:48,971 - INFO - User 6251161332 triggered callback: our_shop
+2025-03-22 00:58:51,580 - INFO - Sent logo image to user 6251161332
+2025-03-22 00:58:54,134 - INFO - User 6251161332 triggered callback: subscribe
+2025-03-22 00:58:59,239 - INFO - User 6251161332 triggered callback: back_to_shop
+2025-03-22 00:59:02,497 - INFO - User 6251161332 triggered callback: regular_price
+2025-03-22 00:59:06,263 - INFO - User 6251161332 triggered callback: back_to_shop
+2025-03-22 01:02:11,061 - INFO - User 7244537339 started the bot
+2025-03-22 01:02:11,061 - INFO - Regular user 7244537339 does not see Admin button
+2025-03-22 01:02:18,997 - INFO - User 7244537339 sent message: \U0001f6d2 Store
+2025-03-22 01:02:20,010 - INFO - Sent logo image to user 7244537339
+2025-03-22 01:02:39,486 - INFO - User 7244537339 triggered callback: our_shop
+2025-03-22 01:02:40,314 - INFO - Sent logo image to user 7244537339
+2025-03-22 01:07:20,434 - INFO - User 7244537339 triggered callback: regular_price
+2025-03-22 01:07:24,947 - INFO - User 7244537339 triggered callback: price_550
+2025-03-22 01:07:24,969 - INFO - User 7244537339 selected regular price 550 Sites $50 for $50. Subscriptions: {'6251161332': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'pending', 'timestamp': '2025-03-22 00:49:09.585016', 'transaction_id': 'ec67f49d-0267-43ff-b150-cac89e3c9fd6'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'pending', 'timestamp': '2025-03-21 03:48:04.987977', 'transaction_id': '6ed77aa7-6afb-47aa-8358-b9e9b3f45df9'}, '7244537339': {'plan': '550 Sites $50', 'payment': 'Payment: $50 via Website', 'status': 'pending'}}
+2025-03-22 01:08:02,048 - INFO - User 7244537339 triggered callback: pay_website_7244537339
+2025-03-22 01:08:02,048 - INFO - Payment attempt for user_id: 7244537339. Current subscriptions: {'6251161332': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'pending', 'timestamp': '2025-03-22 00:49:09.585016', 'transaction_id': 'ec67f49d-0267-43ff-b150-cac89e3c9fd6'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'pending', 'timestamp': '2025-03-21 03:48:04.987977', 'transaction_id': '6ed77aa7-6afb-47aa-8358-b9e9b3f45df9'}, '7244537339': {'plan': '550 Sites $50', 'payment': 'Payment: $50 via Website', 'status': 'pending'}}
+2025-03-22 01:08:02,049 - INFO - User 7244537339 initiated Website payment for 550 Sites $50 at 2025-03-22 01:08:02.048261 with Transaction ID: 4a131e0c-c35c-412f-8b6f-522e0b8dde29
+2025-03-22 01:08:02,462 - INFO - Admin 6251161332 notified of Website payment request from user 7244537339 with Transaction ID: 4a131e0c-c35c-412f-8b6f-522e0b8dde29
+2025-03-22 01:08:24,199 - INFO - User 7244537339 triggered callback: subscribe
+2025-03-22 01:08:26,043 - INFO - User 7244537339 triggered callback: subscribe
+2025-03-22 01:08:28,921 - INFO - User 7244537339 triggered callback: plan_3m
+2025-03-22 01:08:28,922 - INFO - User 7244537339 selected subscription plan $45 for 3 Months for $45. Subscriptions: {'6251161332': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'pending', 'timestamp': '2025-03-22 00:49:09.585016', 'transaction_id': 'ec67f49d-0267-43ff-b150-cac89e3c9fd6'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'pending', 'timestamp': '2025-03-21 03:48:04.987977', 'transaction_id': '6ed77aa7-6afb-47aa-8358-b9e9b3f45df9'}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: $45 via Website', 'status': 'pending'}}
+2025-03-22 01:08:32,336 - INFO - User 7244537339 triggered callback: pay_website_7244537339
+2025-03-22 01:08:32,336 - INFO - Payment attempt for user_id: 7244537339. Current subscriptions: {'6251161332': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'pending', 'timestamp': '2025-03-22 00:49:09.585016', 'transaction_id': 'ec67f49d-0267-43ff-b150-cac89e3c9fd6'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'pending', 'timestamp': '2025-03-21 03:48:04.987977', 'transaction_id': '6ed77aa7-6afb-47aa-8358-b9e9b3f45df9'}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: $45 via Website', 'status': 'pending'}}
+2025-03-22 01:08:32,338 - INFO - User 7244537339 initiated Website payment for $45 for 3 Months at 2025-03-22 01:08:32.336055 with Transaction ID: 135b7df5-bfef-4ce4-80f4-18af309d4c7c
+2025-03-22 01:08:32,738 - INFO - Admin 6251161332 notified of Website payment request from user 7244537339 with Transaction ID: 135b7df5-bfef-4ce4-80f4-18af309d4c7c
+2025-03-22 01:09:08,340 - INFO - User 7244537339 sent message: \U0001f519 Back to Start
+2025-03-22 01:09:08,340 - INFO - User 7244537339 started the bot
+2025-03-22 01:09:08,340 - INFO - Regular user 7244537339 does not see Admin button
+2025-03-22 01:09:10,916 - INFO - User 7244537339 sent message: \U0001f4dc Return & Refund Policy
+2025-03-22 01:09:11,350 - INFO - User 7244537339 viewed Refund Policy
+2025-03-22 01:09:17,295 - INFO - User 7244537339 sent message: \U0001f4dc Return & Refund Policy
+2025-03-22 01:09:17,737 - INFO - User 7244537339 viewed Refund Policy
+2025-03-22 01:09:20,794 - INFO - User 7244537339 sent message: \U0001f4de Customer Support
+2025-03-22 01:14:22,697 - INFO - User 7244537339 triggered callback: back_inline
+2025-03-22 01:14:23,106 - INFO - User 7244537339 started the bot
+2025-03-22 01:14:23,106 - INFO - Regular user 7244537339 does not see Admin button
+2025-03-22 01:14:48,569 - INFO - User 7244537339 sent message: \U0001f4de Customer Support
+2025-03-22 01:14:55,071 - INFO - User 7244537339 sent message: \U0001f4cb How To Order Step by Step
+2025-03-22 01:15:18,320 - INFO - User 7244537339 triggered callback: back_inline
+2025-03-22 01:15:18,710 - INFO - User 7244537339 started the bot
+2025-03-22 01:15:18,710 - INFO - Regular user 7244537339 does not see Admin button
+2025-03-22 01:15:21,314 - INFO - User 7244537339 sent message: \U0001f4dc Return & Refund Policy
+2025-03-22 01:15:21,741 - INFO - User 7244537339 viewed Refund Policy
+2025-03-22 01:15:42,383 - INFO - User 7244537339 sent message: \U0001f4b3 Payment & Checklist
+2025-03-22 01:19:54,375 - INFO - User 7244537339 started the bot
+2025-03-22 01:19:54,376 - INFO - Regular user 7244537339 does not see Admin button
+2025-03-22 01:20:03,713 - INFO - User 7244537339 sent message: \U0001f6d2 Store
+2025-03-22 01:20:05,256 - INFO - Sent logo image to user 7244537339
+2025-03-22 01:20:23,486 - INFO - User 7244537339 triggered callback: our_shop
+2025-03-22 01:20:24,927 - INFO - Sent logo image to user 7244537339
+2025-03-22 01:21:13,953 - INFO - User 7244537339 triggered callback: subscribe
+2025-03-22 01:21:17,565 - INFO - User 7244537339 triggered callback: back_to_shop
+2025-03-22 01:21:20,830 - INFO - User 7244537339 sent message: \U0001f519 Back to Start
+2025-03-22 01:21:20,830 - INFO - User 7244537339 started the bot
+2025-03-22 01:21:20,830 - INFO - Regular user 7244537339 does not see Admin button
+2025-03-22 01:22:09,060 - INFO - User 7244537339 sent message: \U0001f4de Customer Support
+2025-03-22 01:22:25,278 - INFO - User 7244537339 sent message: \U0001f4cb How To Order Step by Step
+2025-03-22 01:22:37,989 - INFO - User 7244537339 sent message: \U0001f4b3 Payment & Checklist
+2025-03-22 01:23:11,797 - INFO - User 7244537339 sent message: \U0001f6d2 Store
+2025-03-22 01:23:12,600 - INFO - Sent logo image to user 7244537339
+2025-03-22 01:23:14,332 - INFO - User 7244537339 triggered callback: our_shop
+2025-03-22 01:23:15,129 - INFO - Sent logo image to user 7244537339
+2025-03-22 01:23:26,880 - INFO - User 7244537339 triggered callback: subscribe
+2025-03-22 01:23:40,232 - INFO - User 7244537339 triggered callback: plan_3m
+2025-03-22 01:23:40,234 - INFO - User 7244537339 selected subscription plan $45 for 3 Months for $45. Subscriptions: {'6251161332': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'pending', 'timestamp': '2025-03-22 00:49:09.585016', 'transaction_id': 'ec67f49d-0267-43ff-b150-cac89e3c9fd6'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'pending', 'timestamp': '2025-03-21 03:48:04.987977', 'transaction_id': '6ed77aa7-6afb-47aa-8358-b9e9b3f45df9'}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: $45 via Website', 'status': 'pending'}}
+2025-03-22 01:41:17,487 - INFO - User 7244537339 sent message: \U0001f519 Back to Start
+2025-03-22 01:41:17,507 - INFO - User 7244537339 started the bot
+2025-03-22 01:41:17,507 - INFO - Regular user 7244537339 does not see Admin button
+2025-03-22 01:41:37,436 - INFO - User 7244537339 sent message: \U0001f6d2 Store
+2025-03-22 01:41:38,907 - INFO - Sent logo image to user 7244537339
+2025-03-22 01:41:43,777 - INFO - User 7244537339 triggered callback: our_shop
+2025-03-22 01:41:46,234 - INFO - Sent logo image to user 7244537339
+2025-03-22 01:41:55,010 - INFO - User 7244537339 triggered callback: subscribe
+2025-03-22 01:41:59,168 - INFO - User 7244537339 triggered callback: plan_3m
+2025-03-22 01:41:59,169 - INFO - User 7244537339 selected subscription plan $45 for 3 Months for $45. Subscriptions: {'6251161332': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'pending', 'timestamp': '2025-03-22 00:49:09.585016', 'transaction_id': 'ec67f49d-0267-43ff-b150-cac89e3c9fd6'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'pending', 'timestamp': '2025-03-21 03:48:04.987977', 'transaction_id': '6ed77aa7-6afb-47aa-8358-b9e9b3f45df9'}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: $45 via Website', 'status': 'pending'}}
+2025-03-22 01:42:02,897 - INFO - User 7244537339 triggered callback: pay_website_7244537339
+2025-03-22 01:42:02,897 - INFO - Payment attempt for user_id: 7244537339. Current subscriptions: {'6251161332': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'pending', 'timestamp': '2025-03-22 00:49:09.585016', 'transaction_id': 'ec67f49d-0267-43ff-b150-cac89e3c9fd6'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'pending', 'timestamp': '2025-03-21 03:48:04.987977', 'transaction_id': '6ed77aa7-6afb-47aa-8358-b9e9b3f45df9'}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: $45 via Website', 'status': 'pending'}}
+2025-03-22 01:42:02,898 - INFO - User 7244537339 initiated Website payment for $45 for 3 Months at 2025-03-22 01:42:02.897814 with Transaction ID: 9cc46e59-196d-4631-9f12-43ffe9f05b6a
+2025-03-22 01:42:03,402 - INFO - Admin 6251161332 notified of Website payment request from user 7244537339 with Transaction ID: 9cc46e59-196d-4631-9f12-43ffe9f05b6a
+2025-03-22 01:42:10,442 - INFO - User 7244537339 triggered callback: regular_price
+2025-03-22 01:42:23,572 - INFO - User 7244537339 sent message: \U0001f519 Back to Start
+2025-03-22 01:42:23,572 - INFO - User 7244537339 started the bot
+2025-03-22 01:42:23,572 - INFO - Regular user 7244537339 does not see Admin button
+2025-03-22 01:42:26,076 - INFO - User 7244537339 sent message: \U0001f4dc Return & Refund Policy
+2025-03-22 01:42:26,488 - INFO - User 7244537339 viewed Refund Policy
+2025-03-22 01:42:55,331 - INFO - Bot started
+2025-03-22 01:43:05,822 - INFO - User 7244537339 sent message: \U0001f4de Customer Support
+2025-03-22 01:43:07,753 - INFO - User 6251161332 sent message: \U0001f6d2 Store
+2025-03-22 01:43:10,126 - INFO - Sent logo image to user 6251161332
+2025-03-22 01:43:10,126 - INFO - Marked user 6251161332 as having seen the welcome message and logo
+2025-03-22 01:43:13,088 - INFO - User 6251161332 triggered callback: our_shop
+2025-03-22 01:43:17,587 - INFO - User 6251161332 triggered callback: subscribe
+2025-03-22 01:43:18,104 - INFO - User 7244537339 sent message: \U0001f4cb How To Order Step by Step
+2025-03-22 01:43:26,480 - INFO - User 7244537339 sent message: \U0001f4b3 Payment & Checklist
+2025-03-22 01:43:27,430 - INFO - User 6251161332 sent message: \U0001f6d2 Store
+2025-03-22 01:43:27,431 - INFO - User 6251161332 has already seen the welcome message and logo
+2025-03-22 01:43:29,857 - INFO - User 6251161332 triggered callback: our_shop
+2025-03-22 01:43:33,335 - INFO - User 6251161332 triggered callback: subscribe
+2025-03-22 01:43:35,869 - INFO - User 7244537339 sent message: \U0001f519 Back to Start
+2025-03-22 01:43:35,870 - INFO - User 7244537339 started the bot
+2025-03-22 01:43:36,523 - INFO - User 6251161332 triggered callback: back_to_shop
+2025-03-22 01:43:40,040 - INFO - User 6251161332 triggered callback: back_inline
+2025-03-22 01:43:40,418 - INFO - User 6251161332 started the bot
+2025-03-22 01:44:09,998 - INFO - User 6251161332 started the bot
+2025-03-22 01:44:12,297 - INFO - User 6251161332 sent message: \U0001f6d2 Store
+2025-03-22 01:44:12,298 - INFO - User 6251161332 has already seen the welcome message and logo
+2025-03-22 01:44:15,960 - INFO - User 6251161332 triggered callback: back_inline
+2025-03-22 01:44:16,425 - INFO - User 6251161332 started the bot
+2025-03-22 01:44:56,749 - INFO - User 7944149645 started the bot
+2025-03-22 01:45:03,186 - INFO - User 7944149645 sent message: \U0001f6d2 Store
+2025-03-22 01:45:04,419 - INFO - Sent logo image to user 7944149645
+2025-03-22 01:45:04,420 - INFO - Marked user 7944149645 as having seen the welcome message and logo
+2025-03-22 01:45:16,791 - INFO - User 7944149645 triggered callback: our_shop
+2025-03-22 01:45:31,736 - INFO - User 7944149645 triggered callback: regular_price
+2025-03-22 01:45:36,783 - INFO - User 7944149645 triggered callback: price_2500
+2025-03-22 01:45:36,785 - INFO - User 7944149645 selected regular price 2500 Sites $229 for $229. Subscriptions: {'6251161332': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'pending', 'timestamp': '2025-03-22 00:49:09.585016', 'transaction_id': 'ec67f49d-0267-43ff-b150-cac89e3c9fd6', 'seen_welcome': True}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: $229 via Website', 'status': 'pending'}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'pending', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}}
+2025-03-22 01:45:42,694 - INFO - User 7944149645 triggered callback: pay_website_7944149645
+2025-03-22 01:45:42,694 - INFO - Payment attempt for user_id: 7944149645. Current subscriptions: {'6251161332': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'pending', 'timestamp': '2025-03-22 00:49:09.585016', 'transaction_id': 'ec67f49d-0267-43ff-b150-cac89e3c9fd6', 'seen_welcome': True}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: $229 via Website', 'status': 'pending'}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'pending', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}}
+2025-03-22 01:45:42,695 - INFO - User 7944149645 initiated Website payment for 2500 Sites $229 at 2025-03-22 01:45:42.695248 with Transaction ID: a198e9d7-b5ac-4b29-b023-1a77eddf9930
+2025-03-22 01:45:43,099 - INFO - Admin 6251161332 notified of Website payment request from user 7944149645 with Transaction ID: a198e9d7-b5ac-4b29-b023-1a77eddf9930
+2025-03-22 01:48:46,993 - INFO - User 6251161332 sent message: \U0001f4cb How To Order Step by Step
+2025-03-22 01:57:09,901 - INFO - Bot started
+2025-03-22 01:57:20,823 - INFO - User 6251161332 started the bot
+2025-03-22 01:57:24,160 - INFO - User 6251161332 sent message: \U0001f6d2 Store
+2025-03-22 01:57:24,160 - INFO - User 6251161332 has already seen the welcome message and logo
+2025-03-22 01:57:26,632 - INFO - User 6251161332 triggered callback: our_shop
+2025-03-22 01:57:30,291 - INFO - User 6251161332 triggered callback: subscribe
+2025-03-22 01:57:34,144 - INFO - User 6251161332 triggered callback: back_to_shop
+2025-03-22 01:57:48,138 - INFO - User 6251161332 sent message: \U0001f4de Customer Support
+2025-03-22 01:57:51,323 - INFO - User 6251161332 triggered callback: back_inline
+2025-03-22 01:57:51,703 - INFO - User 6251161332 started the bot
+2025-03-22 01:57:55,047 - INFO - User 6251161332 sent message: \U0001f4cb How To Order Step by Step
+2025-03-22 01:57:58,130 - INFO - User 6251161332 triggered callback: back_inline
+2025-03-22 01:57:58,536 - INFO - User 6251161332 started the bot
+2025-03-22 01:58:00,304 - INFO - User 6251161332 sent message: \U0001f4b3 Payment & Checklist
+2025-03-22 01:58:03,799 - INFO - User 6251161332 triggered callback: back_inline
+2025-03-22 01:58:04,181 - INFO - User 6251161332 started the bot
+2025-03-22 01:58:05,610 - INFO - User 6251161332 sent message: \U0001f4dc Return & Refund Policy
+2025-03-22 01:58:06,013 - INFO - User 6251161332 viewed Refund Policy
+2025-03-22 01:58:07,738 - INFO - User 6251161332 triggered callback: back_inline
+2025-03-22 01:58:08,117 - INFO - User 6251161332 started the bot
+2025-03-22 01:58:09,240 - INFO - User 6251161332 sent message: \U0001f6e0\ufe0f Admin
+2025-03-22 01:58:09,240 - INFO - Admin 6251161332 accessed Admin panel
+2025-03-22 01:58:09,459 - ERROR - Failed to edit admin panel message for 6251161332, message_id: 1792: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message can't be edited
+2025-03-22 01:58:09,876 - INFO - Deleted old admin panel message for 6251161332, message_id: 1792
+2025-03-22 01:58:10,280 - INFO - Sent new admin panel message for 6251161332, new message_id: 1793
+2025-03-22 01:58:17,733 - INFO - User 6251161332 triggered callback: reject_7944149645
+2025-03-22 01:58:18,552 - INFO - Admin 6251161332 rejected purchase for user 7944149645 with Transaction ID: a198e9d7-b5ac-4b29-b023-1a77eddf9930
+2025-03-22 01:58:18,952 - INFO - Admin panel message edited for 6251161332, message_id: 1793
+2025-03-22 01:58:21,796 - INFO - User 6251161332 triggered callback: reject_6251161332
+2025-03-22 01:58:22,608 - INFO - Admin 6251161332 rejected purchase for user 6251161332 with Transaction ID: ec67f49d-0267-43ff-b150-cac89e3c9fd6
+2025-03-22 01:58:23,029 - INFO - Admin panel message edited for 6251161332, message_id: 1793
+2025-03-22 01:58:25,320 - INFO - User 6251161332 triggered callback: reject_7244537339
+2025-03-22 01:58:26,205 - INFO - Admin 6251161332 rejected purchase for user 7244537339 with Transaction ID: 9cc46e59-196d-4631-9f12-43ffe9f05b6a
+2025-03-22 01:58:26,605 - INFO - Admin 6251161332 viewed admin panel: No pending subscriptions
+2025-03-22 01:58:28,221 - INFO - User 6251161332 triggered callback: reject_7244537339
+2025-03-22 01:58:29,052 - INFO - Admin 6251161332 rejected purchase for user 7244537339 with Transaction ID: 9cc46e59-196d-4631-9f12-43ffe9f05b6a
+2025-03-22 01:58:29,455 - INFO - Admin 6251161332 viewed admin panel: No pending subscriptions
+2025-03-22 01:58:33,513 - INFO - User 6251161332 sent message: \U0001f6e0\ufe0f Admin
+2025-03-22 01:58:33,513 - INFO - Admin 6251161332 accessed Admin panel
+2025-03-22 01:58:33,965 - INFO - Admin 6251161332 viewed admin panel: No pending subscriptions
+2025-03-22 01:58:37,810 - INFO - User 6251161332 triggered callback: download_data
+2025-03-22 01:58:39,001 - INFO - Admin 6251161332 downloaded user data
+2025-03-22 02:01:53,411 - INFO - User 6251161332 started the bot
+2025-03-22 02:04:27,892 - INFO - User 6251161332 sent message: \U0001f6d2 Store
+2025-03-22 02:04:27,892 - INFO - User 6251161332 has already seen the welcome message and logo
+2025-03-22 02:04:29,748 - INFO - User 6251161332 triggered callback: our_shop
+2025-03-22 02:04:46,143 - INFO - User 6251161332 sent message: \U0001f4de Customer Support
+2025-03-22 02:04:51,032 - INFO - User 6251161332 sent message: \U0001f4dc Return & Refund Policy
+2025-03-22 02:04:51,442 - INFO - User 6251161332 viewed Refund Policy
+2025-03-22 02:04:53,487 - INFO - User 6251161332 sent message: \U0001f4cb How To Order Step by Step
+2025-03-22 02:04:55,496 - INFO - User 6251161332 sent message: \U0001f4b3 Payment & Checklist
+2025-03-22 02:09:10,475 - INFO - User 7944149645 started the bot
+2025-03-22 02:09:33,137 - INFO - User 7944149645 sent message: \U0001f6d2 Store
+2025-03-22 02:09:35,508 - INFO - Sent logo image to user 7944149645
+2025-03-22 02:09:35,508 - INFO - Marked user 7944149645 as having seen the welcome message and logo
+2025-03-22 02:09:38,280 - INFO - User 7944149645 triggered callback: our_shop
+2025-03-22 02:09:53,938 - INFO - User 7944149645 triggered callback: regular_price
+2025-03-22 02:11:07,034 - INFO - User 7944149645 sent message: \U0001f4de Customer Support
+2025-03-22 02:11:10,070 - INFO - User 7944149645 sent message: \U0001f4cb How To Order Step by Step
+2025-03-22 02:11:14,272 - INFO - User 7944149645 sent message: \U0001f4b3 Payment & Checklist
+2025-03-22 02:11:19,470 - INFO - User 7944149645 sent message: \U0001f4dc Return & Refund Policy
+2025-03-22 02:11:19,880 - INFO - User 7944149645 viewed Refund Policy
+2025-03-22 02:11:23,981 - INFO - User 7944149645 triggered callback: back_inline
+2025-03-22 02:11:24,363 - INFO - User 7944149645 started the bot
+2025-03-22 02:21:48,625 - INFO - Bot started
+2025-03-22 02:21:58,071 - INFO - User 6251161332 started the bot
+2025-03-22 02:22:01,100 - INFO - User 6251161332 sent message: \U0001f6d2 Store
+2025-03-22 02:22:03,650 - INFO - Sent logo image to user 6251161332
+2025-03-22 02:22:06,311 - INFO - User 6251161332 sent message: \U0001f6d2 Store
+2025-03-22 02:22:07,763 - INFO - Sent logo image to user 6251161332
+2025-03-22 02:22:09,541 - INFO - User 6251161332 triggered callback: our_shop
+2025-03-22 02:22:15,852 - INFO - User 6251161332 sent message: \U0001f4cb How To Order Step by Step
+2025-03-22 02:22:17,181 - INFO - User 6251161332 sent message: \U0001f4de Customer Support
+2025-03-22 02:22:18,678 - INFO - User 6251161332 sent message: \U0001f4b3 Payment & Checklist
+2025-03-22 02:22:20,275 - INFO - User 6251161332 sent message: \U0001f4dc Return & Refund Policy
+2025-03-22 02:22:20,679 - INFO - User 6251161332 viewed Refund Policy
+2025-03-22 02:22:21,603 - INFO - User 6251161332 sent message: \U0001f519 Back to Start
+2025-03-22 02:22:21,603 - INFO - User 6251161332 started the bot
+2025-03-22 02:22:22,960 - INFO - User 6251161332 sent message: \U0001f6d2 Store
+2025-03-22 02:22:23,871 - INFO - Sent logo image to user 6251161332
+2025-03-22 02:26:39,367 - INFO - Bot started
+2025-03-22 02:26:47,693 - INFO - User 6251161332 started the bot
+2025-03-22 02:26:52,015 - INFO - User 6251161332 sent message: \U0001f6d2 Store
+2025-03-22 02:26:54,854 - INFO - Sent logo image to user 6251161332
+2025-03-22 02:26:56,623 - INFO - User 6251161332 triggered callback: our_shop
+2025-03-22 02:26:59,493 - INFO - User 6251161332 triggered callback: member_prices
+2025-03-22 02:27:03,136 - INFO - User 6251161332 triggered callback: member_250
+2025-03-22 02:27:03,138 - INFO - User 6251161332 selected member price 250 Sites $15 for $15. Subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: $15 via Website', 'status': 'pending'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}}
+2025-03-22 02:27:05,920 - INFO - User 6251161332 triggered callback: pay_website_6251161332
+2025-03-22 02:27:05,920 - INFO - Payment attempt for user_id: 6251161332. Current subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: $15 via Website', 'status': 'pending'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}}
+2025-03-22 02:27:05,921 - INFO - User 6251161332 initiated Website payment for 250 Sites $15 at 2025-03-22 02:27:05.920324 with Transaction ID: 4de03c5a-3cc6-44ea-b758-7c2f50d3f488
+2025-03-22 02:27:06,313 - INFO - Admin 6251161332 notified of Website payment request from user 6251161332 with Transaction ID: 4de03c5a-3cc6-44ea-b758-7c2f50d3f488
+2025-03-22 02:27:12,563 - INFO - User 6251161332 triggered callback: regular_price
+2025-03-22 02:27:22,247 - INFO - User 6251161332 triggered callback: subscribe
+2025-03-22 02:35:36,829 - INFO - Bot started
+2025-03-22 02:35:43,573 - INFO - User 6251161332 started the bot
+2025-03-22 02:35:46,603 - INFO - User 6251161332 sent message: \U0001f6d2 Store
+2025-03-22 02:35:48,046 - INFO - Sent logo image to user 6251161332
+2025-03-22 02:35:49,561 - INFO - User 6251161332 triggered callback: our_shop
+2025-03-22 02:35:52,343 - INFO - User 6251161332 triggered callback: member_prices
+2025-03-22 02:35:59,814 - INFO - User 6251161332 triggered callback: member_250
+2025-03-22 02:35:59,816 - INFO - User 6251161332 selected member price 250 Sites $15 for $15. Subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: $15 via Website', 'status': 'pending'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}}
+2025-03-22 02:36:03,220 - INFO - User 6251161332 triggered callback: pay_website_6251161332
+2025-03-22 02:36:03,220 - INFO - Payment attempt for user_id: 6251161332. Current subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: $15 via Website', 'status': 'pending'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}}
+2025-03-22 02:36:03,221 - INFO - User 6251161332 initiated Website payment for 250 Sites $15 at 2025-03-22 02:36:03.220143 with Transaction ID: 0af1ae78-108e-43a5-a87f-b34960d78eea
+2025-03-22 02:36:03,617 - INFO - Admin 6251161332 notified of Website payment request from user 6251161332 with Transaction ID: 0af1ae78-108e-43a5-a87f-b34960d78eea
+2025-03-22 02:36:10,986 - INFO - User 6251161332 sent message: \U0001f4de Customer Support
+2025-03-22 02:36:13,089 - INFO - User 6251161332 sent message: \U0001f519 Back to Start
+2025-03-22 02:36:13,089 - INFO - User 6251161332 started the bot
+2025-03-22 02:36:14,822 - INFO - User 6251161332 sent message: \U0001f4dc Return & Refund Policy
+2025-03-22 02:36:15,233 - INFO - User 6251161332 viewed Refund Policy
+2025-03-22 02:36:16,419 - INFO - User 6251161332 sent message: \U0001f4cb How To Order Step by Step
+2025-03-22 02:36:17,948 - INFO - User 6251161332 sent message: \U0001f4dc Return & Refund Policy
+2025-03-22 02:36:18,350 - INFO - User 6251161332 viewed Refund Policy
+2025-03-22 02:36:19,451 - INFO - User 6251161332 sent message: \U0001f4b3 Payment & Checklist
+2025-03-22 02:36:53,490 - INFO - User 7809844153 started the bot
+2025-03-22 02:37:01,565 - INFO - User 7809844153 sent message: \U0001f6d2 Store
+2025-03-22 02:37:02,454 - INFO - Sent logo image to user 7809844153
+2025-03-22 02:37:17,919 - INFO - User 7809844153 triggered callback: our_shop
+2025-03-22 02:37:22,526 - INFO - User 7809844153 triggered callback: subscribe
+2025-03-22 02:37:27,298 - INFO - User 7809844153 triggered callback: plan_3m
+2025-03-22 02:37:27,299 - INFO - User 7809844153 selected subscription plan $45 for 3 Months for $45. Subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '$45 for 3 Months', 'payment': 'Payment: $45 via Website', 'status': 'pending'}}
+2025-03-22 02:37:37,547 - INFO - User 7809844153 triggered callback: pay_website_7809844153
+2025-03-22 02:37:37,548 - INFO - Payment attempt for user_id: 7809844153. Current subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '$45 for 3 Months', 'payment': 'Payment: $45 via Website', 'status': 'pending'}}
+2025-03-22 02:37:37,549 - INFO - User 7809844153 initiated Website payment for $45 for 3 Months at 2025-03-22 02:37:37.548649 with Transaction ID: fe0e7462-821d-478b-9e85-315334a62547
+2025-03-22 02:37:37,944 - INFO - Admin 6251161332 notified of Website payment request from user 7809844153 with Transaction ID: fe0e7462-821d-478b-9e85-315334a62547
+2025-03-22 02:38:19,466 - INFO - User 7809844153 triggered callback: plan_6m
+2025-03-22 02:38:19,468 - INFO - User 7809844153 selected subscription plan $72 for 6 Months for $72. Subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '$72 for 6 Months', 'payment': 'Payment: $72 via Website', 'status': 'pending'}}
+2025-03-22 02:38:25,953 - INFO - User 7809844153 triggered callback: pay_website_7809844153
+2025-03-22 02:38:25,953 - INFO - Payment attempt for user_id: 7809844153. Current subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '$72 for 6 Months', 'payment': 'Payment: $72 via Website', 'status': 'pending'}}
+2025-03-22 02:38:25,954 - INFO - User 7809844153 initiated Website payment for $72 for 6 Months at 2025-03-22 02:38:25.953930 with Transaction ID: 0e1b67dc-863e-4130-b32f-f6eb7fea6455
+2025-03-22 02:38:26,382 - INFO - Admin 6251161332 notified of Website payment request from user 7809844153 with Transaction ID: 0e1b67dc-863e-4130-b32f-f6eb7fea6455
+2025-03-22 02:41:09,104 - INFO - User 7809844153 triggered callback: plan_8m
+2025-03-22 02:41:09,106 - INFO - User 7809844153 selected subscription plan $95 for 8 Months for $95. Subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '$95 for 8 Months', 'payment': 'Payment: $95 via Website', 'status': 'pending'}}
+2025-03-22 02:41:13,217 - INFO - User 7809844153 triggered callback: pay_website_7809844153
+2025-03-22 02:41:13,217 - INFO - Payment attempt for user_id: 7809844153. Current subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '$95 for 8 Months', 'payment': 'Payment: $95 via Website', 'status': 'pending'}}
+2025-03-22 02:41:13,219 - INFO - User 7809844153 initiated Website payment for $95 for 8 Months at 2025-03-22 02:41:13.217954 with Transaction ID: 4fcdb177-7bb0-4840-850d-390a45f3ad99
+2025-03-22 02:41:13,613 - INFO - Admin 6251161332 notified of Website payment request from user 7809844153 with Transaction ID: 4fcdb177-7bb0-4840-850d-390a45f3ad99
+2025-03-22 02:41:14,358 - INFO - User 7809844153 triggered callback: pay_website_7809844153
+2025-03-22 02:41:14,358 - INFO - Payment attempt for user_id: 7809844153. Current subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '$95 for 8 Months', 'payment': 'Payment: Payment: $95 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:41:13.217954', 'transaction_id': '4fcdb177-7bb0-4840-850d-390a45f3ad99'}}
+2025-03-22 02:41:14,360 - INFO - User 7809844153 initiated Website payment for $95 for 8 Months at 2025-03-22 02:41:14.358956 with Transaction ID: a77c5ead-83c5-4aad-86fe-8c2fcc4305f1
+2025-03-22 02:41:14,776 - INFO - Admin 6251161332 notified of Website payment request from user 7809844153 with Transaction ID: a77c5ead-83c5-4aad-86fe-8c2fcc4305f1
+2025-03-22 02:41:32,542 - INFO - User 7809844153 triggered callback: plan_12m
+2025-03-22 02:41:32,543 - INFO - User 7809844153 selected subscription plan $145 for 12 Months for $145. Subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '$145 for 12 Months', 'payment': 'Payment: $145 via Website', 'status': 'pending'}}
+2025-03-22 02:41:39,361 - INFO - User 7809844153 triggered callback: pay_website_7809844153
+2025-03-22 02:41:39,361 - INFO - Payment attempt for user_id: 7809844153. Current subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '$145 for 12 Months', 'payment': 'Payment: $145 via Website', 'status': 'pending'}}
+2025-03-22 02:41:39,362 - INFO - User 7809844153 initiated Website payment for $145 for 12 Months at 2025-03-22 02:41:39.361219 with Transaction ID: 8cd2aa82-0611-47e4-9bb1-705b3899f95d
+2025-03-22 02:41:39,815 - INFO - Admin 6251161332 notified of Website payment request from user 7809844153 with Transaction ID: 8cd2aa82-0611-47e4-9bb1-705b3899f95d
+2025-03-22 02:41:56,162 - INFO - User 7809844153 triggered callback: plan_6m
+2025-03-22 02:41:56,163 - INFO - User 7809844153 selected subscription plan $72 for 6 Months for $72. Subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '$72 for 6 Months', 'payment': 'Payment: $72 via Website', 'status': 'pending'}}
+2025-03-22 02:41:57,491 - INFO - User 7809844153 triggered callback: plan_6m
+2025-03-22 02:41:57,492 - INFO - User 7809844153 selected subscription plan $72 for 6 Months for $72. Subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '$72 for 6 Months', 'payment': 'Payment: $72 via Website', 'status': 'pending'}}
+2025-03-22 02:42:02,378 - INFO - User 7809844153 triggered callback: pay_website_7809844153
+2025-03-22 02:42:02,379 - INFO - Payment attempt for user_id: 7809844153. Current subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '$72 for 6 Months', 'payment': 'Payment: $72 via Website', 'status': 'pending'}}
+2025-03-22 02:42:02,380 - INFO - User 7809844153 initiated Website payment for $72 for 6 Months at 2025-03-22 02:42:02.379413 with Transaction ID: 95fd6c47-c929-4834-9e3e-77a46bacd07e
+2025-03-22 02:42:02,782 - INFO - Admin 6251161332 notified of Website payment request from user 7809844153 with Transaction ID: 95fd6c47-c929-4834-9e3e-77a46bacd07e
+2025-03-22 02:42:03,629 - INFO - User 7809844153 triggered callback: pay_website_7809844153
+2025-03-22 02:42:03,629 - INFO - Payment attempt for user_id: 7809844153. Current subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '$72 for 6 Months', 'payment': 'Payment: Payment: $72 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:42:02.379413', 'transaction_id': '95fd6c47-c929-4834-9e3e-77a46bacd07e'}}
+2025-03-22 02:42:03,631 - INFO - User 7809844153 initiated Website payment for $72 for 6 Months at 2025-03-22 02:42:03.629315 with Transaction ID: 8f0ec35a-4557-4dab-a9cf-7454cc1858de
+2025-03-22 02:42:04,034 - INFO - Admin 6251161332 notified of Website payment request from user 7809844153 with Transaction ID: 8f0ec35a-4557-4dab-a9cf-7454cc1858de
+2025-03-22 02:42:14,385 - INFO - User 7809844153 triggered callback: pay_website_7809844153
+2025-03-22 02:42:14,385 - INFO - Payment attempt for user_id: 7809844153. Current subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '$72 for 6 Months', 'payment': 'Payment: Payment: Payment: $72 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:42:03.629315', 'transaction_id': '8f0ec35a-4557-4dab-a9cf-7454cc1858de'}}
+2025-03-22 02:42:14,386 - INFO - User 7809844153 initiated Website payment for $72 for 6 Months at 2025-03-22 02:42:14.385082 with Transaction ID: 92746a28-3df7-4194-b244-0be04b0c8614
+2025-03-22 02:42:14,792 - INFO - Admin 6251161332 notified of Website payment request from user 7809844153 with Transaction ID: 92746a28-3df7-4194-b244-0be04b0c8614
+2025-03-22 02:42:29,606 - INFO - User 7809844153 triggered callback: subscribe
+2025-03-22 02:42:38,265 - INFO - User 7809844153 sent message: \U0001f6d2 Store
+2025-03-22 02:42:39,527 - INFO - Sent logo image to user 7809844153
+2025-03-22 02:42:42,870 - INFO - User 7809844153 triggered callback: our_shop
+2025-03-22 02:42:47,822 - INFO - User 7809844153 triggered callback: regular_price
+2025-03-22 02:42:54,215 - INFO - User 7809844153 triggered callback: price_250
+2025-03-22 02:42:54,216 - INFO - User 7809844153 selected regular price 250 Sites $25 for $25. Subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '250 Sites $25', 'payment': 'Payment: $25 via Website', 'status': 'pending'}}
+2025-03-22 02:42:58,116 - INFO - User 7809844153 triggered callback: pay_website_7809844153
+2025-03-22 02:42:58,116 - INFO - Payment attempt for user_id: 7809844153. Current subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '250 Sites $25', 'payment': 'Payment: $25 via Website', 'status': 'pending'}}
+2025-03-22 02:42:58,117 - INFO - User 7809844153 initiated Website payment for 250 Sites $25 at 2025-03-22 02:42:58.116048 with Transaction ID: 6598eb15-ac94-452d-abad-eeec3ccbef36
+2025-03-22 02:42:58,513 - INFO - Admin 6251161332 notified of Website payment request from user 7809844153 with Transaction ID: 6598eb15-ac94-452d-abad-eeec3ccbef36
+2025-03-22 02:43:13,140 - INFO - User 7809844153 triggered callback: price_550
+2025-03-22 02:43:13,141 - INFO - User 7809844153 selected regular price 550 Sites $50 for $50. Subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '550 Sites $50', 'payment': 'Payment: $50 via Website', 'status': 'pending'}}
+2025-03-22 02:43:24,361 - INFO - User 7809844153 triggered callback: pay_website_7809844153
+2025-03-22 02:43:24,361 - INFO - Payment attempt for user_id: 7809844153. Current subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '550 Sites $50', 'payment': 'Payment: $50 via Website', 'status': 'pending'}}
+2025-03-22 02:43:24,362 - INFO - User 7809844153 initiated Website payment for 550 Sites $50 at 2025-03-22 02:43:24.361192 with Transaction ID: 8a132dc9-826e-4ff2-b312-af2096c43704
+2025-03-22 02:43:24,757 - INFO - Admin 6251161332 notified of Website payment request from user 7809844153 with Transaction ID: 8a132dc9-826e-4ff2-b312-af2096c43704
+2025-03-22 02:43:35,391 - INFO - User 7809844153 triggered callback: price_850
+2025-03-22 02:43:35,392 - INFO - User 7809844153 selected regular price 850 Sites $79 for $79. Subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '850 Sites $79', 'payment': 'Payment: $79 via Website', 'status': 'pending'}}
+2025-03-22 02:43:41,997 - INFO - User 7809844153 triggered callback: pay_website_7809844153
+2025-03-22 02:43:41,998 - INFO - Payment attempt for user_id: 7809844153. Current subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '850 Sites $79', 'payment': 'Payment: $79 via Website', 'status': 'pending'}}
+2025-03-22 02:43:41,999 - INFO - User 7809844153 initiated Website payment for 850 Sites $79 at 2025-03-22 02:43:41.998443 with Transaction ID: 37154660-f86c-4c08-9a8f-e18615a1b9a7
+2025-03-22 02:43:42,400 - INFO - Admin 6251161332 notified of Website payment request from user 7809844153 with Transaction ID: 37154660-f86c-4c08-9a8f-e18615a1b9a7
+2025-03-22 02:43:52,172 - INFO - User 7809844153 triggered callback: regular_price
+2025-03-22 02:43:59,292 - INFO - User 7809844153 triggered callback: price_1225
+2025-03-22 02:43:59,293 - INFO - User 7809844153 selected regular price 1225 Sites $120 for $120. Subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '1225 Sites $120', 'payment': 'Payment: $120 via Website', 'status': 'pending'}}
+2025-03-22 02:44:03,203 - INFO - User 7809844153 triggered callback: pay_website_7809844153
+2025-03-22 02:44:03,203 - INFO - Payment attempt for user_id: 7809844153. Current subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '1225 Sites $120', 'payment': 'Payment: $120 via Website', 'status': 'pending'}}
+2025-03-22 02:44:03,205 - INFO - User 7809844153 initiated Website payment for 1225 Sites $120 at 2025-03-22 02:44:03.204187 with Transaction ID: 1913286d-a0ef-4515-bbaa-8f7017a7ff23
+2025-03-22 02:44:03,763 - INFO - Admin 6251161332 notified of Website payment request from user 7809844153 with Transaction ID: 1913286d-a0ef-4515-bbaa-8f7017a7ff23
+2025-03-22 02:44:17,035 - INFO - User 7809844153 sent message: \U0001f6d2 Store
+2025-03-22 02:44:18,214 - INFO - Sent logo image to user 7809844153
+2025-03-22 02:44:21,182 - INFO - User 7809844153 triggered callback: our_shop
+2025-03-22 02:44:24,809 - INFO - User 7809844153 triggered callback: regular_price
+2025-03-22 02:44:28,627 - INFO - User 7809844153 triggered callback: price_1500
+2025-03-22 02:44:28,628 - INFO - User 7809844153 selected regular price 1500 Sites $145 for $145. Subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '1500 Sites $145', 'payment': 'Payment: $145 via Website', 'status': 'pending'}}
+2025-03-22 02:44:32,788 - INFO - User 7809844153 triggered callback: pay_website_7809844153
+2025-03-22 02:44:32,788 - INFO - Payment attempt for user_id: 7809844153. Current subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '1500 Sites $145', 'payment': 'Payment: $145 via Website', 'status': 'pending'}}
+2025-03-22 02:44:32,790 - INFO - User 7809844153 initiated Website payment for 1500 Sites $145 at 2025-03-22 02:44:32.788297 with Transaction ID: fb311000-8ec1-489a-940a-2e6dba895892
+2025-03-22 02:44:33,190 - INFO - Admin 6251161332 notified of Website payment request from user 7809844153 with Transaction ID: fb311000-8ec1-489a-940a-2e6dba895892
+2025-03-22 02:44:44,810 - INFO - User 7809844153 triggered callback: regular_price
+2025-03-22 02:44:53,505 - INFO - User 7809844153 triggered callback: price_1850
+2025-03-22 02:44:53,507 - INFO - User 7809844153 selected regular price 1850 Sites $179 for $179. Subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '1850 Sites $179', 'payment': 'Payment: $179 via Website', 'status': 'pending'}}
+2025-03-22 02:44:57,580 - INFO - User 7809844153 triggered callback: pay_website_7809844153
+2025-03-22 02:44:57,581 - INFO - Payment attempt for user_id: 7809844153. Current subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '1850 Sites $179', 'payment': 'Payment: $179 via Website', 'status': 'pending'}}
+2025-03-22 02:44:58,124 - INFO - User 7809844153 initiated Website payment for 1850 Sites $179 at 2025-03-22 02:44:57.581540 with Transaction ID: 79ea5c1d-c5aa-4165-bf6d-8e96357232e9
+2025-03-22 02:44:58,525 - INFO - Admin 6251161332 notified of Website payment request from user 7809844153 with Transaction ID: 79ea5c1d-c5aa-4165-bf6d-8e96357232e9
+2025-03-22 02:45:10,021 - INFO - User 7809844153 triggered callback: regular_price
+2025-03-22 02:45:29,476 - INFO - User 7809844153 triggered callback: price_350
+2025-03-22 02:45:29,477 - INFO - User 7809844153 selected regular price 350 Sites $40 for $40. Subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '350 Sites $40', 'payment': 'Payment: $40 via Website', 'status': 'pending'}}
+2025-03-22 02:45:35,385 - INFO - User 7809844153 triggered callback: pay_website_7809844153
+2025-03-22 02:45:35,385 - INFO - Payment attempt for user_id: 7809844153. Current subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '350 Sites $40', 'payment': 'Payment: $40 via Website', 'status': 'pending'}}
+2025-03-22 02:45:35,404 - INFO - User 7809844153 initiated Website payment for 350 Sites $40 at 2025-03-22 02:45:35.404727 with Transaction ID: 77836a31-6746-4897-9897-53964376555a
+2025-03-22 02:45:35,805 - INFO - Admin 6251161332 notified of Website payment request from user 7809844153 with Transaction ID: 77836a31-6746-4897-9897-53964376555a
+2025-03-22 02:45:59,556 - INFO - User 7809844153 triggered callback: regular_price
+2025-03-22 02:46:51,932 - INFO - User 7809844153 triggered callback: price_750
+2025-03-22 02:46:51,934 - INFO - User 7809844153 selected regular price 750 Sites $65 for $65. Subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '750 Sites $65', 'payment': 'Payment: $65 via Website', 'status': 'pending'}}
+2025-03-22 02:46:59,279 - INFO - User 7809844153 triggered callback: pay_website_7809844153
+2025-03-22 02:46:59,279 - INFO - Payment attempt for user_id: 7809844153. Current subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '750 Sites $65', 'payment': 'Payment: $65 via Website', 'status': 'pending'}}
+2025-03-22 02:46:59,280 - INFO - User 7809844153 initiated Website payment for 750 Sites $65 at 2025-03-22 02:46:59.279202 with Transaction ID: c96dee52-7c48-4c05-b162-c11b70c9c31c
+2025-03-22 02:46:59,683 - INFO - Admin 6251161332 notified of Website payment request from user 7809844153 with Transaction ID: c96dee52-7c48-4c05-b162-c11b70c9c31c
+2025-03-22 02:47:18,254 - INFO - User 7809844153 triggered callback: regular_price
+2025-03-22 02:47:33,261 - INFO - User 7809844153 triggered callback: price_1000
+2025-03-22 02:47:33,262 - INFO - User 7809844153 selected regular price 1000 Sites $95 for $95. Subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '1000 Sites $95', 'payment': 'Payment: $95 via Website', 'status': 'pending'}}
+2025-03-22 02:47:40,921 - INFO - User 7809844153 triggered callback: pay_website_7809844153
+2025-03-22 02:47:40,921 - INFO - Payment attempt for user_id: 7809844153. Current subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '1000 Sites $95', 'payment': 'Payment: $95 via Website', 'status': 'pending'}}
+2025-03-22 02:47:40,923 - INFO - User 7809844153 initiated Website payment for 1000 Sites $95 at 2025-03-22 02:47:40.922894 with Transaction ID: cdce7ade-1ec2-419c-b5a3-0a8a0bdda32b
+2025-03-22 02:47:41,328 - INFO - Admin 6251161332 notified of Website payment request from user 7809844153 with Transaction ID: cdce7ade-1ec2-419c-b5a3-0a8a0bdda32b
+2025-03-22 02:47:54,481 - INFO - User 7809844153 triggered callback: regular_price
+2025-03-22 02:48:12,515 - INFO - User 7809844153 triggered callback: price_1350
+2025-03-22 02:48:12,516 - INFO - User 7809844153 selected regular price 1350 Sites $129 for $129. Subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '1350 Sites $129', 'payment': 'Payment: $129 via Website', 'status': 'pending'}}
+2025-03-22 02:48:15,782 - INFO - User 7809844153 triggered callback: pay_website_7809844153
+2025-03-22 02:48:15,782 - INFO - Payment attempt for user_id: 7809844153. Current subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '1350 Sites $129', 'payment': 'Payment: $129 via Website', 'status': 'pending'}}
+2025-03-22 02:48:15,783 - INFO - User 7809844153 initiated Website payment for 1350 Sites $129 at 2025-03-22 02:48:15.782469 with Transaction ID: d7bbdea0-ef92-4a2b-af1b-b95bb5ac7e2a
+2025-03-22 02:48:16,372 - INFO - Admin 6251161332 notified of Website payment request from user 7809844153 with Transaction ID: d7bbdea0-ef92-4a2b-af1b-b95bb5ac7e2a
+2025-03-22 02:48:29,004 - INFO - User 7809844153 triggered callback: regular_price
+2025-03-22 02:48:36,814 - INFO - User 7809844153 triggered callback: price_1700
+2025-03-22 02:48:36,815 - INFO - User 7809844153 selected regular price 1700 Sites $159 for $159. Subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '1700 Sites $159', 'payment': 'Payment: $159 via Website', 'status': 'pending'}}
+2025-03-22 02:48:40,081 - INFO - User 7809844153 triggered callback: pay_website_7809844153
+2025-03-22 02:48:40,081 - INFO - Payment attempt for user_id: 7809844153. Current subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '1700 Sites $159', 'payment': 'Payment: $159 via Website', 'status': 'pending'}}
+2025-03-22 02:48:40,082 - INFO - User 7809844153 initiated Website payment for 1700 Sites $159 at 2025-03-22 02:48:40.081305 with Transaction ID: 4d5fcd46-5059-498d-bed5-92990baf69f7
+2025-03-22 02:48:40,490 - INFO - Admin 6251161332 notified of Website payment request from user 7809844153 with Transaction ID: 4d5fcd46-5059-498d-bed5-92990baf69f7
+2025-03-22 02:48:56,264 - INFO - User 7809844153 triggered callback: regular_price
+2025-03-22 02:49:00,015 - INFO - User 7809844153 triggered callback: price_2000
+2025-03-22 02:49:00,016 - INFO - User 7809844153 selected regular price 2000 Sites $195 for $195. Subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '2000 Sites $195', 'payment': 'Payment: $195 via Website', 'status': 'pending'}}
+2025-03-22 02:49:04,439 - INFO - User 7809844153 triggered callback: pay_website_7809844153
+2025-03-22 02:49:04,440 - INFO - Payment attempt for user_id: 7809844153. Current subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '2000 Sites $195', 'payment': 'Payment: $195 via Website', 'status': 'pending'}}
+2025-03-22 02:49:04,441 - INFO - User 7809844153 initiated Website payment for 2000 Sites $195 at 2025-03-22 02:49:04.440387 with Transaction ID: 4082e1e5-efa1-4aeb-8157-1746de35d3fa
+2025-03-22 02:49:04,838 - INFO - Admin 6251161332 notified of Website payment request from user 7809844153 with Transaction ID: 4082e1e5-efa1-4aeb-8157-1746de35d3fa
+2025-03-22 02:49:16,375 - INFO - User 7809844153 triggered callback: regular_price
+2025-03-22 02:49:23,513 - INFO - User 7809844153 triggered callback: price_2500
+2025-03-22 02:49:23,515 - INFO - User 7809844153 selected regular price 2500 Sites $229 for $229. Subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '2500 Sites $229', 'payment': 'Payment: $229 via Website', 'status': 'pending'}}
+2025-03-22 02:49:29,095 - INFO - User 7809844153 triggered callback: pay_website_7809844153
+2025-03-22 02:49:29,095 - INFO - Payment attempt for user_id: 7809844153. Current subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '2500 Sites $229', 'payment': 'Payment: $229 via Website', 'status': 'pending'}}
+2025-03-22 02:49:29,096 - INFO - User 7809844153 initiated Website payment for 2500 Sites $229 at 2025-03-22 02:49:29.095702 with Transaction ID: fa7f98eb-7f2f-444e-acfd-51fb9671a883
+2025-03-22 02:49:29,504 - INFO - Admin 6251161332 notified of Website payment request from user 7809844153 with Transaction ID: fa7f98eb-7f2f-444e-acfd-51fb9671a883
+2025-03-22 02:50:51,392 - INFO - User 7809844153 triggered callback: plan_3m
+2025-03-22 02:50:51,393 - INFO - User 7809844153 selected subscription plan $45 for 3 Months for $45. Subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '$45 for 3 Months', 'payment': 'Payment: $45 via Website', 'status': 'pending'}}
+2025-03-22 02:51:03,308 - INFO - User 7809844153 triggered callback: pay_website_7809844153
+2025-03-22 02:51:03,308 - INFO - Payment attempt for user_id: 7809844153. Current subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '$45 for 3 Months', 'payment': 'Payment: $45 via Website', 'status': 'pending'}}
+2025-03-22 02:51:03,309 - INFO - User 7809844153 initiated Website payment for $45 for 3 Months at 2025-03-22 02:51:03.308537 with Transaction ID: ca7a6979-1bf2-4346-95f1-caeb81880c94
+2025-03-22 02:51:03,710 - INFO - Admin 6251161332 notified of Website payment request from user 7809844153 with Transaction ID: ca7a6979-1bf2-4346-95f1-caeb81880c94
+2025-03-22 02:51:32,687 - INFO - User 7809844153 sent message: \U0001f519 Back to Start
+2025-03-22 02:51:32,705 - INFO - User 7809844153 started the bot
+2025-03-22 02:51:42,646 - INFO - User 7809844153 sent message: \U0001f4dc Return & Refund Policy
+2025-03-22 02:51:43,061 - INFO - User 7809844153 viewed Refund Policy
+2025-03-22 02:52:26,055 - INFO - User 7809844153 sent message: \U0001f4de Customer Support
+2025-03-22 02:52:34,866 - INFO - User 7809844153 sent message: \U0001f4cb How To Order Step by Step
+2025-03-22 02:53:00,159 - INFO - User 7809844153 sent message: \U0001f4b3 Payment & Checklist
+2025-03-22 02:57:08,935 - INFO - User 7809844153 sent message: \U0001f519 Back to Start
+2025-03-22 02:57:08,935 - INFO - User 7809844153 started the bot
+2025-03-22 02:57:14,151 - INFO - User 7809844153 sent message: \U0001f6d2 Store
+2025-03-22 02:57:15,614 - INFO - Sent logo image to user 7809844153
+2025-03-22 02:57:17,664 - INFO - User 7809844153 triggered callback: our_shop
+2025-03-22 02:57:21,299 - INFO - User 7809844153 triggered callback: member_prices
+2025-03-22 02:57:27,883 - INFO - User 7809844153 triggered callback: regular_price
+2025-03-22 03:03:23,521 - INFO - Bot started
+2025-03-22 03:04:08,677 - INFO - User 6251161332 started the bot
+2025-03-22 03:04:12,821 - INFO - User 6251161332 sent message: \U0001f6d2 Store
+2025-03-22 03:04:15,158 - INFO - Sent logo image to user 6251161332
+2025-03-22 03:04:16,687 - INFO - User 6251161332 triggered callback: our_shop
+2025-03-22 03:04:20,227 - INFO - User 6251161332 triggered callback: member_prices
+2025-03-22 03:04:25,626 - INFO - User 6251161332 triggered callback: regular_price
+2025-03-22 03:11:34,975 - INFO - User 7685364015 sent message: \U0001f6d2 Store
+2025-03-22 03:11:35,804 - INFO - Sent logo image to user 7685364015
+2025-03-22 03:11:37,529 - INFO - User 7685364015 triggered callback: our_shop
+2025-03-22 03:11:42,708 - INFO - User 7685364015 sent message: \U0001f6d2 Store
+2025-03-22 03:11:44,166 - INFO - Sent logo image to user 7685364015
+2025-03-22 03:11:45,699 - INFO - User 7685364015 triggered callback: our_shop
+2025-03-22 03:11:51,132 - INFO - User 7685364015 triggered callback: regular_price
+2025-03-22 03:11:55,166 - INFO - User 7685364015 triggered callback: price_2500
+2025-03-22 03:11:55,167 - INFO - User 7685364015 selected regular price 2500 Sites $229 for $229. Subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:51:03.308537', 'transaction_id': 'ca7a6979-1bf2-4346-95f1-caeb81880c94'}, '7685364015': {'plan': '2500 Sites $229', 'payment': 'Payment: $229 via Website', 'status': 'pending'}}
+2025-03-22 03:11:57,550 - INFO - User 7685364015 triggered callback: pay_website_7685364015
+2025-03-22 03:11:57,551 - INFO - Payment attempt for user_id: 7685364015. Current subscriptions: {'6251161332': {'plan': '250 Sites $15', 'payment': 'Payment: Payment: $15 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:36:03.220143', 'transaction_id': '0af1ae78-108e-43a5-a87f-b34960d78eea'}, '7944149645': {'plan': '2500 Sites $229', 'payment': 'Payment: Payment: $229 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:45:42.695248', 'transaction_id': 'a198e9d7-b5ac-4b29-b023-1a77eddf9930', 'seen_welcome': True}, '7244537339': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'rejected', 'timestamp': '2025-03-22 01:42:02.897814', 'transaction_id': '9cc46e59-196d-4631-9f12-43ffe9f05b6a'}, '7809844153': {'plan': '$45 for 3 Months', 'payment': 'Payment: Payment: $45 via Website', 'status': 'pending', 'timestamp': '2025-03-22 02:51:03.308537', 'transaction_id': 'ca7a6979-1bf2-4346-95f1-caeb81880c94'}, '7685364015': {'plan': '2500 Sites $229', 'payment': 'Payment: $229 via Website', 'status': 'pending'}}
+2025-03-22 03:11:57,552 - INFO - User 7685364015 initiated Website payment for 2500 Sites $229 at 2025-03-22 03:11:57.551568 with Transaction ID: 00a93f6f-bbb3-47a0-b0ab-ff0ab219872d
+2025-03-22 03:11:57,966 - INFO - Admin 6251161332 notified of Website payment request from user 7685364015 with Transaction ID: 00a93f6f-bbb3-47a0-b0ab-ff0ab219872d
+2025-03-22 07:11:04,012 - ERROR - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 502. Description: Bad Gateway
+2025-03-22 07:11:04,013 - ERROR - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\WIN-10\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\telebot\__init__.py", line 1234, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "C:\Users\WIN-10\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\telebot\util.py", line 111, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\WIN-10\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\telebot\util.py", line 93, in run
+    task(*args, **kwargs)
+  File "C:\Users\WIN-10\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\telebot\__init__.py", line 688, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1),
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WIN-10\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\telebot\__init__.py", line 660, in get_updates
+    json_updates = apihelper.get_updates(
+                   ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WIN-10\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\telebot\apihelper.py", line 332, in get_updates
+    return _make_request(token, method_url, params=payload)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WIN-10\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\telebot\apihelper.py", line 168, in _make_request
+    json_result = _check_result(method_name, result)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WIN-10\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\telebot\apihelper.py", line 195, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 502. Description: Bad Gateway
+
+2025-03-22 07:11:04,484 - ERROR - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 502. Description: Bad Gateway
+2025-03-22 07:11:04,485 - ERROR - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\WIN-10\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\telebot\__init__.py", line 1234, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "C:\Users\WIN-10\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\telebot\util.py", line 111, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\WIN-10\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\telebot\util.py", line 93, in run
+    task(*args, **kwargs)
+  File "C:\Users\WIN-10\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\telebot\__init__.py", line 688, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1),
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WIN-10\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\telebot\__init__.py", line 660, in get_updates
+    json_updates = apihelper.get_updates(
+                   ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WIN-10\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\telebot\apihelper.py", line 332, in get_updates
+    return _make_request(token, method_url, params=payload)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WIN-10\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\telebot\apihelper.py", line 168, in _make_request
+    json_result = _check_result(method_name, result)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WIN-10\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\telebot\apihelper.py", line 195, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 502. Description: Bad Gateway
+
+2025-03-22 07:11:05,209 - ERROR - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 502. Description: Bad Gateway
+2025-03-22 07:11:05,210 - ERROR - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\WIN-10\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\telebot\__init__.py", line 1234, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "C:\Users\WIN-10\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\telebot\util.py", line 111, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\WIN-10\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\telebot\util.py", line 93, in run
+    task(*args, **kwargs)
+  File "C:\Users\WIN-10\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\telebot\__init__.py", line 688, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1),
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WIN-10\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\telebot\__init__.py", line 660, in get_updates
+    json_updates = apihelper.get_updates(
+                   ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WIN-10\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\telebot\apihelper.py", line 332, in get_updates
+    return _make_request(token, method_url, params=payload)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WIN-10\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\telebot\apihelper.py", line 168, in _make_request
+    json_result = _check_result(method_name, result)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WIN-10\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\telebot\apihelper.py", line 195, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 502. Description: Bad Gateway
+
+2025-03-22 07:11:31,541 - ERROR - Bot crashed: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)
+2025-03-22 07:11:36,543 - INFO - Bot started
