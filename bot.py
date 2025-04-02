@@ -34,7 +34,7 @@ def save_subscriptions(subscriptions):
 subscriptions = load_subscriptions()
 
 # Admin chat ID (replace with actual admin Telegram chat ID)
-ADMIN_CHAT_ID = "7809844153"
+ADMIN_CHAT_ID = "7944149645"
 
 # Pagination settings
 PAGE_SIZE = 5  # Number of subscriptions per page
@@ -242,6 +242,7 @@ def callback_inline(call):
         price_1850_btn = types.InlineKeyboardButton("💰 1850 Sites $179", callback_data="price_1850")
         price_2000_btn = types.InlineKeyboardButton("💰 2000 Sites $195", callback_data="price_2000")
         price_2500_btn = types.InlineKeyboardButton("💰 2500 Sites $229", callback_data="price_2500")
+        price_3000_btn = types.InlineKeyboardButton("💰 3000 Sites $295", callback_data="price_3000")  # New button
         back_to_shop_btn = types.InlineKeyboardButton("🔙 Back to Shop", callback_data="back_to_shop")
         inline_markup.row(price_250_btn, price_350_btn)
         inline_markup.row(price_550_btn, price_750_btn)
@@ -249,7 +250,7 @@ def callback_inline(call):
         inline_markup.row(price_1225_btn, price_1350_btn)
         inline_markup.row(price_1500_btn, price_1700_btn)
         inline_markup.row(price_1850_btn, price_2000_btn)
-        inline_markup.row(price_2500_btn)
+        inline_markup.row(price_2500_btn, price_3000_btn)  # Adjusted to include new button
         inline_markup.row(back_to_shop_btn)
         price_message = "💰 Regular Price Options" + ATTRACTIVE_TEXT
         bot.answer_callback_query(call.id, "Viewing Regular Price options...")
@@ -335,7 +336,7 @@ def callback_inline(call):
         bot.send_message(call.message.chat.id, payment_message, parse_mode='Markdown', reply_markup=get_custom_markup(call.message.chat.id))
         bot.send_message(call.message.chat.id, "🔹 Please select the desired option" + ATTRACTIVE_TEXT, parse_mode='Markdown', reply_markup=inline_markup)
 
-    elif call.data in ["price_250", "price_350", "price_550", "price_750", "price_850", "price_1000", "price_1225", "price_1350", "price_1500", "price_1700", "price_1850", "price_2000", "price_2500"]:
+    elif call.data in ["price_250", "price_350", "price_550", "price_750", "price_850", "price_1000", "price_1225", "price_1350", "price_1500", "price_1700", "price_1850", "price_2000", "price_2500", "price_3000"]:
         price_details = {
             "price_250": {"name": "250 Sites $25", "price": "$25"},
             "price_350": {"name": "350 Sites $40", "price": "$40"},
@@ -349,7 +350,8 @@ def callback_inline(call):
             "price_1700": {"name": "1700 Sites $159", "price": "$159"},
             "price_1850": {"name": "1850 Sites $179", "price": "$179"},
             "price_2000": {"name": "2000 Sites $195", "price": "$195"},
-            "price_2500": {"name": "2500 Sites $229", "price": "$229"}
+            "price_2500": {"name": "2500 Sites $229", "price": "$229"},
+            "price_3000": {"name": "3000 Sites $295", "price": "$295"}  # New entry
         }
         selected_price = price_details[call.data]
         user_id = str(call.message.chat.id)
